@@ -1,0 +1,5 @@
+### Predictions made by DeepFRI.
+Protein,GO_term/EC_number,Score,GO_term/EC_number name
+query_prot,GO:0005198,0.20109,structural molecule activity
+query_prot,GO:0005102,0.13549,signaling receptor binding
+query_prot,GO:0042802,0.10019,identical protein binding

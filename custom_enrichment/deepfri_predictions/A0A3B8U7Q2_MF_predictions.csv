@@ -1,0 +1,5 @@
+### Predictions made by DeepFRI.
+Protein,GO_term/EC_number,Score,GO_term/EC_number name
+query_prot,GO:0016614,0.48628,"oxidoreductase activity, acting on CH-OH group of donors"
+query_prot,GO:0016616,0.42596,"oxidoreductase activity, acting on the CH-OH group of donors, NAD or NADP as acceptor"
+query_prot,GO:0050661,0.29381,NADP binding

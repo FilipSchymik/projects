@@ -1,0 +1,19 @@
+### Predictions made by DeepFRI.
+Protein,GO_term/EC_number,Score,GO_term/EC_number name
+query_prot,GO:0046394,0.38065,carboxylic acid biosynthetic process
+query_prot,GO:0016053,0.36917,organic acid biosynthetic process
+query_prot,GO:0044283,0.31231,small molecule biosynthetic process
+query_prot,GO:0006082,0.22773,organic acid metabolic process
+query_prot,GO:0043436,0.21081,oxoacid metabolic process
+query_prot,GO:0008652,0.18837,cellular amino acid biosynthetic process
+query_prot,GO:0019752,0.17773,carboxylic acid metabolic process
+query_prot,GO:0043603,0.15672,cellular amide metabolic process
+query_prot,GO:0042398,0.15551,cellular modified amino acid biosynthetic process
+query_prot,GO:0072330,0.13617,monocarboxylic acid biosynthetic process
+query_prot,GO:0006766,0.13297,vitamin metabolic process
+query_prot,GO:0006575,0.12545,cellular modified amino acid metabolic process
+query_prot,GO:0016043,0.11553,cellular component organization
+query_prot,GO:0006767,0.11502,water-soluble vitamin metabolic process
+query_prot,GO:0009110,0.11500,vitamin biosynthetic process
+query_prot,GO:1901607,0.10441,alpha-amino acid biosynthetic process
+query_prot,GO:0042364,0.10060,water-soluble vitamin biosynthetic process

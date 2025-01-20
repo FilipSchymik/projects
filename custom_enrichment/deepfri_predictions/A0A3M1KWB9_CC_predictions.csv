@@ -1,0 +1,6 @@
+### Predictions made by DeepFRI.
+Protein,GO_term/EC_number,Score,GO_term/EC_number name
+query_prot,GO:0071944,0.16297,cell periphery
+query_prot,GO:0005886,0.15985,plasma membrane
+query_prot,GO:0031224,0.11689,intrinsic component of membrane
+query_prot,GO:0016021,0.11443,integral component of membrane

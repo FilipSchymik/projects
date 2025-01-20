@@ -1,0 +1,5 @@
+### Predictions made by DeepFRI.
+Protein,GO_term/EC_number,Score,GO_term/EC_number name
+query_prot,GO:0051540,0.99767,metal cluster binding
+query_prot,GO:0051536,0.99765,iron-sulfur cluster binding
+query_prot,GO:0051539,0.96407,"4 iron, 4 sulfur cluster binding"

@@ -1,0 +1,32 @@
+### Predictions made by DeepFRI.
+Protein,GO_term/EC_number,Score,GO_term/EC_number name
+query_prot,GO:0036211,0.74734,protein modification process
+query_prot,GO:0006464,0.74689,cellular protein modification process
+query_prot,GO:0043412,0.70566,macromolecule modification
+query_prot,GO:0007049,0.54371,cell cycle
+query_prot,GO:0051171,0.43252,regulation of nitrogen compound metabolic process
+query_prot,GO:0031323,0.40981,regulation of cellular metabolic process
+query_prot,GO:0019222,0.40844,regulation of metabolic process
+query_prot,GO:0080090,0.40190,regulation of primary metabolic process
+query_prot,GO:0060255,0.40119,regulation of macromolecule metabolic process
+query_prot,GO:0016043,0.39610,cellular component organization
+query_prot,GO:0022402,0.28425,cell cycle process
+query_prot,GO:0006796,0.27265,phosphate-containing compound metabolic process
+query_prot,GO:0006793,0.26348,phosphorus metabolic process
+query_prot,GO:0006996,0.26109,organelle organization
+query_prot,GO:0051276,0.24140,chromosome organization
+query_prot,GO:0051726,0.23397,regulation of cell cycle
+query_prot,GO:0000278,0.21134,mitotic cell cycle
+query_prot,GO:1903047,0.19709,mitotic cell cycle process
+query_prot,GO:0006470,0.16227,protein dephosphorylation
+query_prot,GO:2000112,0.13975,regulation of cellular macromolecule biosynthetic process
+query_prot,GO:0016311,0.13965,dephosphorylation
+query_prot,GO:0051301,0.13655,cell division
+query_prot,GO:0010556,0.12793,regulation of macromolecule biosynthetic process
+query_prot,GO:0016070,0.11728,RNA metabolic process
+query_prot,GO:0031326,0.11471,regulation of cellular biosynthetic process
+query_prot,GO:0010468,0.11184,regulation of gene expression
+query_prot,GO:0006468,0.11118,protein phosphorylation
+query_prot,GO:0009889,0.11073,regulation of biosynthetic process
+query_prot,GO:0019219,0.10924,regulation of nucleobase-containing compound metabolic process
+query_prot,GO:0051246,0.10481,regulation of protein metabolic process

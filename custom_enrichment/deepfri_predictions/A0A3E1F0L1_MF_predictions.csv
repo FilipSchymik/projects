@@ -1,0 +1,5 @@
+### Predictions made by DeepFRI.
+Protein,GO_term/EC_number,Score,GO_term/EC_number name
+query_prot,GO:0016772,0.17085,"transferase activity, transferring phosphorus-containing groups"
+query_prot,GO:0003677,0.14739,DNA binding
+query_prot,GO:0003723,0.11767,RNA binding

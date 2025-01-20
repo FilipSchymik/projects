@@ -1,0 +1,6 @@
+### Predictions made by DeepFRI.
+Protein,GO_term/EC_number,Score,GO_term/EC_number name
+query_prot,GO:0016788,0.32865,"hydrolase activity, acting on ester bonds"
+query_prot,GO:0004518,0.12173,nuclease activity
+query_prot,GO:0005198,0.11587,structural molecule activity
+query_prot,GO:0003677,0.10183,DNA binding

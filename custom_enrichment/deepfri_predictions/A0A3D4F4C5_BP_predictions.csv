@@ -1,0 +1,84 @@
+### Predictions made by DeepFRI.
+Protein,GO_term/EC_number,Score,GO_term/EC_number name
+query_prot,GO:0006793,0.35108,phosphorus metabolic process
+query_prot,GO:0006796,0.32182,phosphate-containing compound metabolic process
+query_prot,GO:0071554,0.32136,cell wall organization or biogenesis
+query_prot,GO:0048856,0.31007,anatomical structure development
+query_prot,GO:0032502,0.30434,developmental process
+query_prot,GO:0016043,0.28860,cellular component organization
+query_prot,GO:0005976,0.27944,polysaccharide metabolic process
+query_prot,GO:0005975,0.26784,carbohydrate metabolic process
+query_prot,GO:0009653,0.23861,anatomical structure morphogenesis
+query_prot,GO:0034637,0.23025,cellular carbohydrate biosynthetic process
+query_prot,GO:0006508,0.22474,proteolysis
+query_prot,GO:0044085,0.22281,cellular component biogenesis
+query_prot,GO:0009056,0.21950,catabolic process
+query_prot,GO:1901575,0.21635,organic substance catabolic process
+query_prot,GO:0045229,0.21632,external encapsulating structure organization
+query_prot,GO:0071555,0.21627,cell wall organization
+query_prot,GO:0000272,0.21320,polysaccharide catabolic process
+query_prot,GO:0044036,0.21187,cell wall macromolecule metabolic process
+query_prot,GO:0042546,0.20872,cell wall biogenesis
+query_prot,GO:0000271,0.20727,polysaccharide biosynthetic process
+query_prot,GO:0051716,0.20157,cellular response to stimulus
+query_prot,GO:0042221,0.19783,response to chemical
+query_prot,GO:0065008,0.19542,regulation of biological quality
+query_prot,GO:0033692,0.19004,cellular polysaccharide biosynthetic process
+query_prot,GO:0070589,0.18546,cellular component macromolecule biosynthetic process
+query_prot,GO:0044264,0.18529,cellular polysaccharide metabolic process
+query_prot,GO:0019637,0.18504,organophosphate metabolic process
+query_prot,GO:0044262,0.18367,cellular carbohydrate metabolic process
+query_prot,GO:0044038,0.18208,cell wall macromolecule biosynthetic process
+query_prot,GO:0006629,0.17940,lipid metabolic process
+query_prot,GO:0016052,0.17771,carbohydrate catabolic process
+query_prot,GO:0016051,0.17504,carbohydrate biosynthetic process
+query_prot,GO:0044255,0.16921,cellular lipid metabolic process
+query_prot,GO:0016310,0.16387,phosphorylation
+query_prot,GO:1901615,0.16318,organic hydroxy compound metabolic process
+query_prot,GO:0009057,0.16228,macromolecule catabolic process
+query_prot,GO:0032501,0.16196,multicellular organismal process
+query_prot,GO:1901135,0.16183,carbohydrate derivative metabolic process
+query_prot,GO:0043412,0.15972,macromolecule modification
+query_prot,GO:0006082,0.15773,organic acid metabolic process
+query_prot,GO:0006464,0.15501,cellular protein modification process
+query_prot,GO:0036211,0.15484,protein modification process
+query_prot,GO:0006022,0.14870,aminoglycan metabolic process
+query_prot,GO:0030203,0.14677,glycosaminoglycan metabolic process
+query_prot,GO:0006811,0.14564,ion transport
+query_prot,GO:0006066,0.14485,alcohol metabolic process
+query_prot,GO:0043436,0.14155,oxoacid metabolic process
+query_prot,GO:0022607,0.14002,cellular component assembly
+query_prot,GO:1901137,0.13600,carbohydrate derivative biosynthetic process
+query_prot,GO:0019752,0.13589,carboxylic acid metabolic process
+query_prot,GO:0006950,0.13551,response to stress
+query_prot,GO:0009273,0.13506,peptidoglycan-based cell wall biogenesis
+query_prot,GO:0007275,0.13454,multicellular organism development
+query_prot,GO:0051234,0.13403,establishment of localization
+query_prot,GO:0019751,0.13175,polyol metabolic process
+query_prot,GO:0006023,0.13001,aminoglycan biosynthetic process
+query_prot,GO:0005996,0.12935,monosaccharide metabolic process
+query_prot,GO:0007154,0.12885,cell communication
+query_prot,GO:0008610,0.12633,lipid biosynthetic process
+query_prot,GO:0006810,0.12611,transport
+query_prot,GO:0050793,0.12530,regulation of developmental process
+query_prot,GO:0000902,0.12529,cell morphogenesis
+query_prot,GO:0044248,0.12511,cellular catabolic process
+query_prot,GO:0006644,0.12478,phospholipid metabolic process
+query_prot,GO:0016311,0.12376,dephosphorylation
+query_prot,GO:0006024,0.12350,glycosaminoglycan biosynthetic process
+query_prot,GO:0000270,0.12327,peptidoglycan metabolic process
+query_prot,GO:0009225,0.12114,nucleotide-sugar metabolic process
+query_prot,GO:1901617,0.11733,organic hydroxy compound biosynthetic process
+query_prot,GO:0034654,0.11714,nucleobase-containing compound biosynthetic process
+query_prot,GO:0009628,0.11351,response to abiotic stimulus
+query_prot,GO:0044283,0.11320,small molecule biosynthetic process
+query_prot,GO:0009226,0.11310,nucleotide-sugar biosynthetic process
+query_prot,GO:0048731,0.11291,system development
+query_prot,GO:0090407,0.11163,organophosphate biosynthetic process
+query_prot,GO:0070887,0.11109,cellular response to chemical stimulus
+query_prot,GO:0019318,0.11087,hexose metabolic process
+query_prot,GO:0007049,0.10885,cell cycle
+query_prot,GO:0022604,0.10822,regulation of cell morphogenesis
+query_prot,GO:0046486,0.10818,glycerolipid metabolic process
+query_prot,GO:0008360,0.10736,regulation of cell shape
+query_prot,GO:0022603,0.10719,regulation of anatomical structure morphogenesis

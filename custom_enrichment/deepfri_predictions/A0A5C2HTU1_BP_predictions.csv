@@ -1,0 +1,22 @@
+### Predictions made by DeepFRI.
+Protein,GO_term/EC_number,Score,GO_term/EC_number name
+query_prot,GO:0043412,0.23751,macromolecule modification
+query_prot,GO:0036211,0.23128,protein modification process
+query_prot,GO:0006464,0.23094,cellular protein modification process
+query_prot,GO:0016043,0.16700,cellular component organization
+query_prot,GO:0043543,0.15899,protein acylation
+query_prot,GO:0034654,0.15764,nucleobase-containing compound biosynthetic process
+query_prot,GO:0019222,0.15732,regulation of metabolic process
+query_prot,GO:0022607,0.14572,cellular component assembly
+query_prot,GO:0060255,0.14094,regulation of macromolecule metabolic process
+query_prot,GO:0065003,0.13844,protein-containing complex assembly
+query_prot,GO:0006351,0.13675,"transcription, DNA-templated"
+query_prot,GO:0097659,0.13381,nucleic acid-templated transcription
+query_prot,GO:0006473,0.13149,protein acetylation
+query_prot,GO:0032774,0.12843,RNA biosynthetic process
+query_prot,GO:0044085,0.12225,cellular component biogenesis
+query_prot,GO:0080090,0.12097,regulation of primary metabolic process
+query_prot,GO:0043933,0.12009,protein-containing complex subunit organization
+query_prot,GO:0031323,0.11934,regulation of cellular metabolic process
+query_prot,GO:0034622,0.10777,cellular protein-containing complex assembly
+query_prot,GO:0051604,0.10431,protein maturation

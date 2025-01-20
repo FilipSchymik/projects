@@ -1,0 +1,12 @@
+### Predictions made by DeepFRI.
+Protein,GO_term/EC_number,Score,GO_term/EC_number name
+query_prot,GO:0034470,0.99991,ncRNA processing
+query_prot,GO:0008033,0.99985,tRNA processing
+query_prot,GO:0034660,0.99981,ncRNA metabolic process
+query_prot,GO:0006396,0.99978,RNA processing
+query_prot,GO:0006399,0.99977,tRNA metabolic process
+query_prot,GO:0016070,0.99947,RNA metabolic process
+query_prot,GO:0009451,0.99921,RNA modification
+query_prot,GO:0006400,0.99729,tRNA modification
+query_prot,GO:0001522,0.98893,pseudouridine synthesis
+query_prot,GO:0043412,0.98654,macromolecule modification

@@ -1,0 +1,6 @@
+### Predictions made by DeepFRI.
+Protein,GO_term/EC_number,Score,GO_term/EC_number name
+query_prot,GO:0090305,0.21381,nucleic acid phosphodiester bond hydrolysis
+query_prot,GO:0006259,0.15614,DNA metabolic process
+query_prot,GO:0016070,0.11439,RNA metabolic process
+query_prot,GO:0044419,0.10186,biological process involved in interspecies interaction between organisms

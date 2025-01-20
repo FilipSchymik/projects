@@ -1,0 +1,10 @@
+### Predictions made by DeepFRI.
+Protein,GO_term/EC_number,Score,GO_term/EC_number name
+query_prot,GO:0016798,0.44634,"hydrolase activity, acting on glycosyl bonds"
+query_prot,GO:0004553,0.42011,"hydrolase activity, hydrolyzing O-glycosyl compounds"
+query_prot,GO:0016758,0.21852,"transferase activity, transferring hexosyl groups"
+query_prot,GO:0016757,0.21626,"transferase activity, transferring glycosyl groups"
+query_prot,GO:0140096,0.17143,"catalytic activity, acting on a protein"
+query_prot,GO:0016746,0.12047,"transferase activity, transferring acyl groups"
+query_prot,GO:0008374,0.11490,O-acyltransferase activity
+query_prot,GO:0030246,0.10741,carbohydrate binding

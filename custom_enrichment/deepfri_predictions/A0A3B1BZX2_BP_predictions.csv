@@ -1,0 +1,22 @@
+### Predictions made by DeepFRI.
+Protein,GO_term/EC_number,Score,GO_term/EC_number name
+query_prot,GO:0009116,0.81837,nucleoside metabolic process
+query_prot,GO:1901657,0.80873,glycosyl compound metabolic process
+query_prot,GO:0055086,0.75002,nucleobase-containing small molecule metabolic process
+query_prot,GO:0044283,0.70399,small molecule biosynthetic process
+query_prot,GO:1901135,0.68093,carbohydrate derivative metabolic process
+query_prot,GO:0009119,0.65679,ribonucleoside metabolic process
+query_prot,GO:1901659,0.65052,glycosyl compound biosynthetic process
+query_prot,GO:0042455,0.60687,ribonucleoside biosynthetic process
+query_prot,GO:0009163,0.58755,nucleoside biosynthetic process
+query_prot,GO:0034404,0.58700,nucleobase-containing small molecule biosynthetic process
+query_prot,GO:1901137,0.52585,carbohydrate derivative biosynthetic process
+query_prot,GO:0034654,0.46518,nucleobase-containing compound biosynthetic process
+query_prot,GO:0072521,0.27743,purine-containing compound metabolic process
+query_prot,GO:0046116,0.22499,queuosine metabolic process
+query_prot,GO:0008616,0.22349,queuosine biosynthetic process
+query_prot,GO:0042278,0.21694,purine nucleoside metabolic process
+query_prot,GO:0005975,0.20759,carbohydrate metabolic process
+query_prot,GO:0006790,0.15869,sulfur compound metabolic process
+query_prot,GO:0044272,0.14205,sulfur compound biosynthetic process
+query_prot,GO:0009308,0.13480,amine metabolic process

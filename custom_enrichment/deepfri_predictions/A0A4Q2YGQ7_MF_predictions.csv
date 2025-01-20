@@ -1,0 +1,3 @@
+### Predictions made by DeepFRI.
+Protein,GO_term/EC_number,Score,GO_term/EC_number name
+query_prot,GO:0016627,0.16471,"oxidoreductase activity, acting on the CH-CH group of donors"

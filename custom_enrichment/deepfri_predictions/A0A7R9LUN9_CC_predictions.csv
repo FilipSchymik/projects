@@ -1,0 +1,13 @@
+### Predictions made by DeepFRI.
+Protein,GO_term/EC_number,Score,GO_term/EC_number name
+query_prot,GO:0098796,0.60364,membrane protein complex
+query_prot,GO:0012505,0.53303,endomembrane system
+query_prot,GO:0031090,0.47205,organelle membrane
+query_prot,GO:0098588,0.25501,bounding membrane of organelle
+query_prot,GO:0071944,0.20160,cell periphery
+query_prot,GO:0005886,0.19166,plasma membrane
+query_prot,GO:0031982,0.18620,vesicle
+query_prot,GO:0005794,0.17749,Golgi apparatus
+query_prot,GO:0031984,0.17531,organelle subcompartment
+query_prot,GO:0097708,0.17145,intracellular vesicle
+query_prot,GO:0031410,0.17098,cytoplasmic vesicle

@@ -1,0 +1,6 @@
+### Predictions made by DeepFRI.
+Protein,GO_term/EC_number,Score,GO_term/EC_number name
+query_prot,GO:0016667,0.53953,"oxidoreductase activity, acting on a sulfur group of donors"
+query_prot,GO:0015036,0.53778,disulfide oxidoreductase activity
+query_prot,GO:0015035,0.48903,protein disulfide oxidoreductase activity
+query_prot,GO:0140096,0.15991,"catalytic activity, acting on a protein"

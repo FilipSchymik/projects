@@ -1,0 +1,5 @@
+### Predictions made by DeepFRI.
+Protein,GO_term/EC_number,Score,GO_term/EC_number name
+query_prot,GO:0006793,0.19793,phosphorus metabolic process
+query_prot,GO:0006796,0.17457,phosphate-containing compound metabolic process
+query_prot,GO:0055085,0.13906,transmembrane transport

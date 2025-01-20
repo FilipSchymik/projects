@@ -1,0 +1,19 @@
+### Predictions made by DeepFRI.
+Protein,GO_term/EC_number,Score,GO_term/EC_number name
+query_prot,GO:0031224,0.54379,intrinsic component of membrane
+query_prot,GO:0016021,0.53728,integral component of membrane
+query_prot,GO:0031090,0.49011,organelle membrane
+query_prot,GO:0012505,0.47307,endomembrane system
+query_prot,GO:0005783,0.46482,endoplasmic reticulum
+query_prot,GO:0031984,0.43018,organelle subcompartment
+query_prot,GO:0042175,0.36499,nuclear outer membrane-endoplasmic reticulum membrane network
+query_prot,GO:0098827,0.36271,endoplasmic reticulum subcompartment
+query_prot,GO:0005789,0.36108,endoplasmic reticulum membrane
+query_prot,GO:0071944,0.21172,cell periphery
+query_prot,GO:0005886,0.18809,plasma membrane
+query_prot,GO:0005829,0.14141,cytosol
+query_prot,GO:0098588,0.12279,bounding membrane of organelle
+query_prot,GO:0005739,0.11741,mitochondrion
+query_prot,GO:0009536,0.11191,plastid
+query_prot,GO:0009507,0.11079,chloroplast
+query_prot,GO:0031967,0.10234,organelle envelope

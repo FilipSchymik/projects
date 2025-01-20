@@ -1,0 +1,41 @@
+### Predictions made by DeepFRI.
+Protein,GO_term/EC_number,Score,GO_term/EC_number name
+query_prot,GO:0006793,0.53513,phosphorus metabolic process
+query_prot,GO:0006796,0.45828,phosphate-containing compound metabolic process
+query_prot,GO:0016311,0.36580,dephosphorylation
+query_prot,GO:0034654,0.36043,nucleobase-containing compound biosynthetic process
+query_prot,GO:0006259,0.35570,DNA metabolic process
+query_prot,GO:0044262,0.28862,cellular carbohydrate metabolic process
+query_prot,GO:0005975,0.27965,carbohydrate metabolic process
+query_prot,GO:0016043,0.22692,cellular component organization
+query_prot,GO:0071897,0.22608,DNA biosynthetic process
+query_prot,GO:0090305,0.22201,nucleic acid phosphodiester bond hydrolysis
+query_prot,GO:0006950,0.20841,response to stress
+query_prot,GO:0016310,0.20267,phosphorylation
+query_prot,GO:0016070,0.20188,RNA metabolic process
+query_prot,GO:0055086,0.19045,nucleobase-containing small molecule metabolic process
+query_prot,GO:1901135,0.18887,carbohydrate derivative metabolic process
+query_prot,GO:0006629,0.17378,lipid metabolic process
+query_prot,GO:0051716,0.17323,cellular response to stimulus
+query_prot,GO:0019637,0.17282,organophosphate metabolic process
+query_prot,GO:0044255,0.16960,cellular lipid metabolic process
+query_prot,GO:0033554,0.16434,cellular response to stress
+query_prot,GO:0006996,0.15648,organelle organization
+query_prot,GO:0006644,0.14780,phospholipid metabolic process
+query_prot,GO:0006261,0.14669,DNA-dependent DNA replication
+query_prot,GO:0016051,0.14198,carbohydrate biosynthetic process
+query_prot,GO:0006260,0.13942,DNA replication
+query_prot,GO:0009225,0.13892,nucleotide-sugar metabolic process
+query_prot,GO:0006650,0.13676,glycerophospholipid metabolic process
+query_prot,GO:0046486,0.13494,glycerolipid metabolic process
+query_prot,GO:0034637,0.13251,cellular carbohydrate biosynthetic process
+query_prot,GO:0006281,0.13170,DNA repair
+query_prot,GO:0006974,0.13047,cellular response to DNA damage stimulus
+query_prot,GO:0090407,0.12889,organophosphate biosynthetic process
+query_prot,GO:0044085,0.12436,cellular component biogenesis
+query_prot,GO:0008610,0.12250,lipid biosynthetic process
+query_prot,GO:1901137,0.12063,carbohydrate derivative biosynthetic process
+query_prot,GO:0006082,0.11385,organic acid metabolic process
+query_prot,GO:0090501,0.10826,RNA phosphodiester bond hydrolysis
+query_prot,GO:0051276,0.10817,chromosome organization
+query_prot,GO:0043412,0.10048,macromolecule modification

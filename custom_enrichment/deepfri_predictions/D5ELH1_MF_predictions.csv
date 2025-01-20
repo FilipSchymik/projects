@@ -1,0 +1,12 @@
+### Predictions made by DeepFRI.
+Protein,GO_term/EC_number,Score,GO_term/EC_number name
+query_prot,GO:0003677,0.59241,DNA binding
+query_prot,GO:0140110,0.34683,transcription regulator activity
+query_prot,GO:0043565,0.31615,sequence-specific DNA binding
+query_prot,GO:0003700,0.30921,DNA-binding transcription factor activity
+query_prot,GO:0003690,0.21713,double-stranded DNA binding
+query_prot,GO:1990837,0.21357,sequence-specific double-stranded DNA binding
+query_prot,GO:0001067,0.20183,regulatory region nucleic acid binding
+query_prot,GO:0000976,0.19857,transcription regulatory region sequence-specific DNA binding
+query_prot,GO:0000981,0.17344,"DNA-binding transcription factor activity, RNA polymerase II-specific"
+query_prot,GO:0042802,0.10479,identical protein binding

@@ -1,0 +1,4 @@
+### Predictions made by DeepFRI.
+Protein,GO_term/EC_number,Score,GO_term/EC_number name
+query_prot,GO:0005829,0.11481,cytosol
+query_prot,GO:0005634,0.10795,nucleus

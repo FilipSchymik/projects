@@ -1,0 +1,7 @@
+### Predictions made by DeepFRI.
+Protein,GO_term/EC_number,Score,GO_term/EC_number name
+query_prot,GO:0016032,0.13501,viral process
+query_prot,GO:0016043,0.13335,cellular component organization
+query_prot,GO:0044419,0.12633,biological process involved in interspecies interaction between organisms
+query_prot,GO:0044403,0.12566,biological process involved in symbiotic interaction
+query_prot,GO:0016070,0.10968,RNA metabolic process

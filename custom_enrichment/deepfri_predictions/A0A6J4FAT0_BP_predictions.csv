@@ -1,0 +1,17 @@
+### Predictions made by DeepFRI.
+Protein,GO_term/EC_number,Score,GO_term/EC_number name
+query_prot,GO:0006082,0.49799,organic acid metabolic process
+query_prot,GO:0006520,0.47156,cellular amino acid metabolic process
+query_prot,GO:0043436,0.44839,oxoacid metabolic process
+query_prot,GO:0019752,0.43494,carboxylic acid metabolic process
+query_prot,GO:0016053,0.37809,organic acid biosynthetic process
+query_prot,GO:0044283,0.36950,small molecule biosynthetic process
+query_prot,GO:0046394,0.36588,carboxylic acid biosynthetic process
+query_prot,GO:1901605,0.36123,alpha-amino acid metabolic process
+query_prot,GO:0044272,0.35250,sulfur compound biosynthetic process
+query_prot,GO:0006790,0.35159,sulfur compound metabolic process
+query_prot,GO:0008652,0.30998,cellular amino acid biosynthetic process
+query_prot,GO:1901607,0.26851,alpha-amino acid biosynthetic process
+query_prot,GO:0009066,0.20625,aspartate family amino acid metabolic process
+query_prot,GO:0009067,0.16944,aspartate family amino acid biosynthetic process
+query_prot,GO:0000096,0.13851,sulfur amino acid metabolic process

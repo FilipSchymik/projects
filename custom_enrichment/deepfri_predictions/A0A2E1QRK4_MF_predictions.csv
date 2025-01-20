@@ -1,0 +1,7 @@
+### Predictions made by DeepFRI.
+Protein,GO_term/EC_number,Score,GO_term/EC_number name
+query_prot,GO:0022857,0.19002,transmembrane transporter activity
+query_prot,GO:0005215,0.17662,transporter activity
+query_prot,GO:0009055,0.14708,electron transfer activity
+query_prot,GO:0016757,0.14703,"transferase activity, transferring glycosyl groups"
+query_prot,GO:0140096,0.10587,"catalytic activity, acting on a protein"

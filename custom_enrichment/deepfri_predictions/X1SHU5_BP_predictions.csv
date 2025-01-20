@@ -1,0 +1,14 @@
+### Predictions made by DeepFRI.
+Protein,GO_term/EC_number,Score,GO_term/EC_number name
+query_prot,GO:0051716,0.44978,cellular response to stimulus
+query_prot,GO:0006950,0.37205,response to stress
+query_prot,GO:0033554,0.25905,cellular response to stress
+query_prot,GO:0006259,0.21619,DNA metabolic process
+query_prot,GO:0006974,0.20726,cellular response to DNA damage stimulus
+query_prot,GO:0006281,0.19563,DNA repair
+query_prot,GO:0042221,0.11261,response to chemical
+query_prot,GO:0016070,0.11176,RNA metabolic process
+query_prot,GO:0016043,0.11163,cellular component organization
+query_prot,GO:0034654,0.11049,nucleobase-containing compound biosynthetic process
+query_prot,GO:0070887,0.10439,cellular response to chemical stimulus
+query_prot,GO:0006082,0.10422,organic acid metabolic process

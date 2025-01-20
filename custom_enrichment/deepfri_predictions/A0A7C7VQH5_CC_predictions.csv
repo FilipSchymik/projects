@@ -1,0 +1,6 @@
+### Predictions made by DeepFRI.
+Protein,GO_term/EC_number,Score,GO_term/EC_number name
+query_prot,GO:0005634,0.32823,nucleus
+query_prot,GO:1902494,0.15788,catalytic complex
+query_prot,GO:0005829,0.15187,cytosol
+query_prot,GO:0140535,0.13842,intracellular protein-containing complex

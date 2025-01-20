@@ -1,0 +1,13 @@
+### Predictions made by DeepFRI.
+Protein,GO_term/EC_number,Score,GO_term/EC_number name
+query_prot,GO:0016779,0.52782,nucleotidyltransferase activity
+query_prot,GO:0016772,0.52446,"transferase activity, transferring phosphorus-containing groups"
+query_prot,GO:0003677,0.49148,DNA binding
+query_prot,GO:0016788,0.35625,"hydrolase activity, acting on ester bonds"
+query_prot,GO:0140097,0.20209,"catalytic activity, acting on DNA"
+query_prot,GO:0034061,0.19391,DNA polymerase activity
+query_prot,GO:0008408,0.18313,3'-5' exonuclease activity
+query_prot,GO:0004527,0.17730,exonuclease activity
+query_prot,GO:0004518,0.17623,nuclease activity
+query_prot,GO:0003887,0.15837,DNA-directed DNA polymerase activity
+query_prot,GO:0097367,0.10205,carbohydrate derivative binding

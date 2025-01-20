@@ -1,0 +1,34 @@
+### Predictions made by DeepFRI.
+Protein,GO_term/EC_number,Score,GO_term/EC_number name
+query_prot,GO:2001141,0.96321,regulation of RNA biosynthetic process
+query_prot,GO:0031323,0.96072,regulation of cellular metabolic process
+query_prot,GO:1903506,0.96062,regulation of nucleic acid-templated transcription
+query_prot,GO:0051252,0.95998,regulation of RNA metabolic process
+query_prot,GO:0006355,0.95831,"regulation of transcription, DNA-templated"
+query_prot,GO:0051171,0.95659,regulation of nitrogen compound metabolic process
+query_prot,GO:0019219,0.95496,regulation of nucleobase-containing compound metabolic process
+query_prot,GO:0080090,0.95421,regulation of primary metabolic process
+query_prot,GO:0006351,0.95396,"transcription, DNA-templated"
+query_prot,GO:0097659,0.95311,nucleic acid-templated transcription
+query_prot,GO:0010556,0.95277,regulation of macromolecule biosynthetic process
+query_prot,GO:0031326,0.95164,regulation of cellular biosynthetic process
+query_prot,GO:0019222,0.95152,regulation of metabolic process
+query_prot,GO:0060255,0.95031,regulation of macromolecule metabolic process
+query_prot,GO:0009889,0.94978,regulation of biosynthetic process
+query_prot,GO:2000112,0.94676,regulation of cellular macromolecule biosynthetic process
+query_prot,GO:0032774,0.94672,RNA biosynthetic process
+query_prot,GO:0010468,0.94291,regulation of gene expression
+query_prot,GO:0016070,0.93777,RNA metabolic process
+query_prot,GO:0034654,0.92433,nucleobase-containing compound biosynthetic process
+query_prot,GO:0048519,0.27124,negative regulation of biological process
+query_prot,GO:0048523,0.24884,negative regulation of cellular process
+query_prot,GO:0016043,0.21412,cellular component organization
+query_prot,GO:0031324,0.17948,negative regulation of cellular metabolic process
+query_prot,GO:0009892,0.17148,negative regulation of metabolic process
+query_prot,GO:0006366,0.14553,transcription by RNA polymerase II
+query_prot,GO:0051172,0.13693,negative regulation of nitrogen compound metabolic process
+query_prot,GO:0010605,0.13535,negative regulation of macromolecule metabolic process
+query_prot,GO:0042221,0.11090,response to chemical
+query_prot,GO:0045934,0.11014,negative regulation of nucleobase-containing compound metabolic process
+query_prot,GO:0051716,0.10316,cellular response to stimulus
+query_prot,GO:0010629,0.10090,negative regulation of gene expression

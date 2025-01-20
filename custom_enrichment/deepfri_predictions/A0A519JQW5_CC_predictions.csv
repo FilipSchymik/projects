@@ -1,0 +1,20 @@
+### Predictions made by DeepFRI.
+Protein,GO_term/EC_number,Score,GO_term/EC_number name
+query_prot,GO:0031224,0.41801,intrinsic component of membrane
+query_prot,GO:0016021,0.39982,integral component of membrane
+query_prot,GO:0031090,0.37689,organelle membrane
+query_prot,GO:0005740,0.29724,mitochondrial envelope
+query_prot,GO:0031966,0.28777,mitochondrial membrane
+query_prot,GO:0031967,0.27314,organelle envelope
+query_prot,GO:0031975,0.24545,envelope
+query_prot,GO:0005739,0.23992,mitochondrion
+query_prot,GO:0070469,0.22778,respirasome
+query_prot,GO:0005743,0.21691,mitochondrial inner membrane
+query_prot,GO:0071944,0.21199,cell periphery
+query_prot,GO:0019866,0.21036,organelle inner membrane
+query_prot,GO:0005886,0.18978,plasma membrane
+query_prot,GO:0098796,0.14561,membrane protein complex
+query_prot,GO:0012505,0.13594,endomembrane system
+query_prot,GO:1902494,0.13340,catalytic complex
+query_prot,GO:1990204,0.12323,oxidoreductase complex
+query_prot,GO:0098588,0.10731,bounding membrane of organelle

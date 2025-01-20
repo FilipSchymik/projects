@@ -1,0 +1,10 @@
+### Predictions made by DeepFRI.
+Protein,GO_term/EC_number,Score,GO_term/EC_number name
+query_prot,GO:0016043,0.18600,cellular component organization
+query_prot,GO:0006996,0.17459,organelle organization
+query_prot,GO:0043604,0.16252,amide biosynthetic process
+query_prot,GO:0006412,0.16236,translation
+query_prot,GO:0043043,0.16086,peptide biosynthetic process
+query_prot,GO:0043603,0.13996,cellular amide metabolic process
+query_prot,GO:0006518,0.13929,peptide metabolic process
+query_prot,GO:0043933,0.10946,protein-containing complex subunit organization

@@ -1,0 +1,5 @@
+### Predictions made by DeepFRI.
+Protein,GO_term/EC_number,Score,GO_term/EC_number name
+query_prot,GO:0016788,0.15995,"hydrolase activity, acting on ester bonds"
+query_prot,GO:0016757,0.13972,"transferase activity, transferring glycosyl groups"
+query_prot,GO:0016798,0.11508,"hydrolase activity, acting on glycosyl bonds"

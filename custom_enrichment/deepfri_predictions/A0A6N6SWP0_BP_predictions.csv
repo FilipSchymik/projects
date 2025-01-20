@@ -1,0 +1,73 @@
+### Predictions made by DeepFRI.
+Protein,GO_term/EC_number,Score,GO_term/EC_number name
+query_prot,GO:0016043,0.46126,cellular component organization
+query_prot,GO:0006996,0.32420,organelle organization
+query_prot,GO:0051234,0.29422,establishment of localization
+query_prot,GO:0022607,0.28475,cellular component assembly
+query_prot,GO:0006810,0.26571,transport
+query_prot,GO:0044085,0.24681,cellular component biogenesis
+query_prot,GO:0007049,0.23768,cell cycle
+query_prot,GO:0048856,0.22225,anatomical structure development
+query_prot,GO:0051641,0.22105,cellular localization
+query_prot,GO:0019222,0.22023,regulation of metabolic process
+query_prot,GO:0032502,0.21994,developmental process
+query_prot,GO:0031323,0.21888,regulation of cellular metabolic process
+query_prot,GO:0032501,0.21875,multicellular organismal process
+query_prot,GO:0080090,0.20838,regulation of primary metabolic process
+query_prot,GO:0060255,0.20633,regulation of macromolecule metabolic process
+query_prot,GO:0048518,0.20081,positive regulation of biological process
+query_prot,GO:0022402,0.20067,cell cycle process
+query_prot,GO:0051171,0.19773,regulation of nitrogen compound metabolic process
+query_prot,GO:0048522,0.19062,positive regulation of cellular process
+query_prot,GO:0033036,0.18584,macromolecule localization
+query_prot,GO:0006811,0.18274,ion transport
+query_prot,GO:0010468,0.17895,regulation of gene expression
+query_prot,GO:0043933,0.17596,protein-containing complex subunit organization
+query_prot,GO:0051649,0.17120,establishment of localization in cell
+query_prot,GO:0000003,0.16943,reproduction
+query_prot,GO:0007275,0.16718,multicellular organism development
+query_prot,GO:0009889,0.16611,regulation of biosynthetic process
+query_prot,GO:0022414,0.16524,reproductive process
+query_prot,GO:0031326,0.16263,regulation of cellular biosynthetic process
+query_prot,GO:0010556,0.15960,regulation of macromolecule biosynthetic process
+query_prot,GO:0065003,0.15573,protein-containing complex assembly
+query_prot,GO:2000112,0.15424,regulation of cellular macromolecule biosynthetic process
+query_prot,GO:0034622,0.14873,cellular protein-containing complex assembly
+query_prot,GO:0006820,0.14850,anion transport
+query_prot,GO:0008104,0.14766,protein localization
+query_prot,GO:0070925,0.14749,organelle assembly
+query_prot,GO:0046907,0.14715,intracellular transport
+query_prot,GO:0007010,0.14635,cytoskeleton organization
+query_prot,GO:0007017,0.14436,microtubule-based process
+query_prot,GO:0071702,0.14142,organic substance transport
+query_prot,GO:0048519,0.13902,negative regulation of biological process
+query_prot,GO:0051252,0.13409,regulation of RNA metabolic process
+query_prot,GO:0019219,0.13379,regulation of nucleobase-containing compound metabolic process
+query_prot,GO:0051704,0.13167,multi-organism process
+query_prot,GO:0071705,0.13162,nitrogen compound transport
+query_prot,GO:0048869,0.13060,cellular developmental process
+query_prot,GO:0030154,0.12628,cell differentiation
+query_prot,GO:0048731,0.11858,system development
+query_prot,GO:0070727,0.11773,cellular macromolecule localization
+query_prot,GO:0016070,0.11709,RNA metabolic process
+query_prot,GO:0007059,0.11660,chromosome segregation
+query_prot,GO:0045184,0.11578,establishment of protein localization
+query_prot,GO:0034613,0.11383,cellular protein localization
+query_prot,GO:0006366,0.11286,transcription by RNA polymerase II
+query_prot,GO:0048523,0.11206,negative regulation of cellular process
+query_prot,GO:0000278,0.11178,mitotic cell cycle
+query_prot,GO:0051716,0.11128,cellular response to stimulus
+query_prot,GO:0016192,0.10930,vesicle-mediated transport
+query_prot,GO:0015833,0.10876,peptide transport
+query_prot,GO:0015031,0.10782,protein transport
+query_prot,GO:0042886,0.10774,amide transport
+query_prot,GO:0097659,0.10760,nucleic acid-templated transcription
+query_prot,GO:0051301,0.10490,cell division
+query_prot,GO:2001141,0.10468,regulation of RNA biosynthetic process
+query_prot,GO:0006357,0.10435,regulation of transcription by RNA polymerase II
+query_prot,GO:0006351,0.10277,"transcription, DNA-templated"
+query_prot,GO:1903506,0.10253,regulation of nucleic acid-templated transcription
+query_prot,GO:0006355,0.10145,"regulation of transcription, DNA-templated"
+query_prot,GO:0009893,0.10107,positive regulation of metabolic process
+query_prot,GO:0032774,0.10026,RNA biosynthetic process
+query_prot,GO:0000280,0.10009,nuclear division

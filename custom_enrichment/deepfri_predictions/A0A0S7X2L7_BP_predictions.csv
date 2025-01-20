@@ -1,0 +1,66 @@
+### Predictions made by DeepFRI.
+Protein,GO_term/EC_number,Score,GO_term/EC_number name
+query_prot,GO:0034637,0.79713,cellular carbohydrate biosynthetic process
+query_prot,GO:0016051,0.78755,carbohydrate biosynthetic process
+query_prot,GO:0006793,0.74421,phosphorus metabolic process
+query_prot,GO:0005975,0.71061,carbohydrate metabolic process
+query_prot,GO:0044255,0.65779,cellular lipid metabolic process
+query_prot,GO:0006796,0.65500,phosphate-containing compound metabolic process
+query_prot,GO:0008610,0.64650,lipid biosynthetic process
+query_prot,GO:0044262,0.64146,cellular carbohydrate metabolic process
+query_prot,GO:1901137,0.62029,carbohydrate derivative biosynthetic process
+query_prot,GO:0006629,0.61363,lipid metabolic process
+query_prot,GO:0009311,0.59117,oligosaccharide metabolic process
+query_prot,GO:0009312,0.58766,oligosaccharide biosynthetic process
+query_prot,GO:0005976,0.56607,polysaccharide metabolic process
+query_prot,GO:0000271,0.55391,polysaccharide biosynthetic process
+query_prot,GO:1901135,0.54702,carbohydrate derivative metabolic process
+query_prot,GO:1903509,0.53552,liposaccharide metabolic process
+query_prot,GO:0033692,0.53518,cellular polysaccharide biosynthetic process
+query_prot,GO:0044264,0.51416,cellular polysaccharide metabolic process
+query_prot,GO:0016311,0.51323,dephosphorylation
+query_prot,GO:0008653,0.41358,lipopolysaccharide metabolic process
+query_prot,GO:0009103,0.41238,lipopolysaccharide biosynthetic process
+query_prot,GO:0090407,0.36438,organophosphate biosynthetic process
+query_prot,GO:0006644,0.32881,phospholipid metabolic process
+query_prot,GO:0071554,0.32192,cell wall organization or biogenesis
+query_prot,GO:0019637,0.32020,organophosphate metabolic process
+query_prot,GO:0005991,0.30768,trehalose metabolic process
+query_prot,GO:0005984,0.30405,disaccharide metabolic process
+query_prot,GO:0046467,0.30266,membrane lipid biosynthetic process
+query_prot,GO:0044283,0.29654,small molecule biosynthetic process
+query_prot,GO:0006643,0.28984,membrane lipid metabolic process
+query_prot,GO:0008654,0.28680,phospholipid biosynthetic process
+query_prot,GO:0046351,0.27587,disaccharide biosynthetic process
+query_prot,GO:0046486,0.25118,glycerolipid metabolic process
+query_prot,GO:0006650,0.23678,glycerophospholipid metabolic process
+query_prot,GO:0046165,0.22966,alcohol biosynthetic process
+query_prot,GO:0042546,0.22824,cell wall biogenesis
+query_prot,GO:0045229,0.22737,external encapsulating structure organization
+query_prot,GO:0005992,0.22680,trehalose biosynthetic process
+query_prot,GO:0009247,0.22514,glycolipid biosynthetic process
+query_prot,GO:0044036,0.21212,cell wall macromolecule metabolic process
+query_prot,GO:0006664,0.20754,glycolipid metabolic process
+query_prot,GO:0016053,0.19943,organic acid biosynthetic process
+query_prot,GO:0006066,0.19844,alcohol metabolic process
+query_prot,GO:0006082,0.19550,organic acid metabolic process
+query_prot,GO:0070589,0.18974,cellular component macromolecule biosynthetic process
+query_prot,GO:0034654,0.18974,nucleobase-containing compound biosynthetic process
+query_prot,GO:0044038,0.18952,cell wall macromolecule biosynthetic process
+query_prot,GO:0071555,0.18132,cell wall organization
+query_prot,GO:0045017,0.16684,glycerolipid biosynthetic process
+query_prot,GO:0046401,0.16088,lipopolysaccharide core region metabolic process
+query_prot,GO:0009244,0.16072,lipopolysaccharide core region biosynthetic process
+query_prot,GO:0009225,0.15772,nucleotide-sugar metabolic process
+query_prot,GO:0055086,0.15368,nucleobase-containing small molecule metabolic process
+query_prot,GO:1901615,0.14692,organic hydroxy compound metabolic process
+query_prot,GO:1901617,0.14492,organic hydroxy compound biosynthetic process
+query_prot,GO:0016043,0.14294,cellular component organization
+query_prot,GO:0009273,0.14114,peptidoglycan-based cell wall biogenesis
+query_prot,GO:0046474,0.13931,glycerophospholipid biosynthetic process
+query_prot,GO:0046488,0.12961,phosphatidylinositol metabolic process
+query_prot,GO:0042221,0.12844,response to chemical
+query_prot,GO:0043436,0.12808,oxoacid metabolic process
+query_prot,GO:0019752,0.12552,carboxylic acid metabolic process
+query_prot,GO:0044085,0.12347,cellular component biogenesis
+query_prot,GO:0009226,0.10304,nucleotide-sugar biosynthetic process

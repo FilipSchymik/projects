@@ -1,0 +1,9 @@
+### Predictions made by DeepFRI.
+Protein,GO_term/EC_number,Score,GO_term/EC_number name
+query_prot,GO:0004553,0.97378,"hydrolase activity, hydrolyzing O-glycosyl compounds"
+query_prot,GO:0016798,0.96595,"hydrolase activity, acting on glycosyl bonds"
+query_prot,GO:0015925,0.34327,galactosidase activity
+query_prot,GO:0015929,0.24435,hexosaminidase activity
+query_prot,GO:0004563,0.18273,beta-N-acetylhexosaminidase activity
+query_prot,GO:0004565,0.11462,beta-galactosidase activity
+query_prot,GO:0102148,0.10108,N-acetyl-beta-D-galactosaminidase activity

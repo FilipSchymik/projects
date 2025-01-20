@@ -1,0 +1,5 @@
+### Predictions made by DeepFRI.
+Protein,GO_term/EC_number,Score,GO_term/EC_number name
+query_prot,GO:0016810,0.50689,"hydrolase activity, acting on carbon-nitrogen (but not peptide) bonds"
+query_prot,GO:0016772,0.16897,"transferase activity, transferring phosphorus-containing groups"
+query_prot,GO:0016775,0.12862,"phosphotransferase activity, nitrogenous group as acceptor"

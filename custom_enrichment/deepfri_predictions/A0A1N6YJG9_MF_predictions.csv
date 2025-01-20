@@ -1,0 +1,15 @@
+### Predictions made by DeepFRI.
+Protein,GO_term/EC_number,Score,GO_term/EC_number name
+query_prot,GO:0005524,0.99998,ATP binding
+query_prot,GO:0035639,0.99997,purine ribonucleoside triphosphate binding
+query_prot,GO:0032559,0.99997,adenyl ribonucleotide binding
+query_prot,GO:0030554,0.99996,adenyl nucleotide binding
+query_prot,GO:0032553,0.99996,ribonucleotide binding
+query_prot,GO:0032555,0.99995,purine ribonucleotide binding
+query_prot,GO:0017076,0.99995,purine nucleotide binding
+query_prot,GO:0097367,0.99993,carbohydrate derivative binding
+query_prot,GO:0016887,0.99944,ATPase activity
+query_prot,GO:0016817,0.99941,"hydrolase activity, acting on acid anhydrides"
+query_prot,GO:0016818,0.99940,"hydrolase activity, acting on acid anhydrides, in phosphorus-containing anhydrides"
+query_prot,GO:0017111,0.99919,nucleoside-triphosphatase activity
+query_prot,GO:0016462,0.99885,pyrophosphatase activity

@@ -1,0 +1,9 @@
+### Predictions made by DeepFRI.
+Protein,GO_term/EC_number,Score,GO_term/EC_number name
+query_prot,GO:0044423,0.19514,virion part
+query_prot,GO:0019012,0.18433,virion
+query_prot,GO:0019028,0.15839,viral capsid
+query_prot,GO:0005576,0.13749,extracellular region
+query_prot,GO:0005634,0.11867,nucleus
+query_prot,GO:0005739,0.11296,mitochondrion
+query_prot,GO:0005829,0.10607,cytosol

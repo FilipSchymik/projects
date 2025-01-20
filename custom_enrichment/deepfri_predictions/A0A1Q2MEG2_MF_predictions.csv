@@ -1,0 +1,13 @@
+### Predictions made by DeepFRI.
+Protein,GO_term/EC_number,Score,GO_term/EC_number name
+query_prot,GO:0016772,1.00000,"transferase activity, transferring phosphorus-containing groups"
+query_prot,GO:0016779,1.00000,nucleotidyltransferase activity
+query_prot,GO:0032553,1.00000,ribonucleotide binding
+query_prot,GO:0032555,1.00000,purine ribonucleotide binding
+query_prot,GO:0035639,1.00000,purine ribonucleoside triphosphate binding
+query_prot,GO:0017076,1.00000,purine nucleotide binding
+query_prot,GO:0070566,1.00000,adenylyltransferase activity
+query_prot,GO:0097367,1.00000,carbohydrate derivative binding
+query_prot,GO:0005524,1.00000,ATP binding
+query_prot,GO:0032559,1.00000,adenyl ribonucleotide binding
+query_prot,GO:0030554,0.99999,adenyl nucleotide binding

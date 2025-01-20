@@ -1,0 +1,78 @@
+### Predictions made by DeepFRI.
+Protein,GO_term/EC_number,Score,GO_term/EC_number name
+query_prot,GO:0016043,0.46992,cellular component organization
+query_prot,GO:0006996,0.39689,organelle organization
+query_prot,GO:0016070,0.38678,RNA metabolic process
+query_prot,GO:0051716,0.34091,cellular response to stimulus
+query_prot,GO:0060255,0.34014,regulation of macromolecule metabolic process
+query_prot,GO:0019222,0.33402,regulation of metabolic process
+query_prot,GO:0006950,0.32633,response to stress
+query_prot,GO:0034654,0.31812,nucleobase-containing compound biosynthetic process
+query_prot,GO:0051276,0.31725,chromosome organization
+query_prot,GO:0048519,0.30316,negative regulation of biological process
+query_prot,GO:0006259,0.28776,DNA metabolic process
+query_prot,GO:0032501,0.27321,multicellular organismal process
+query_prot,GO:0010468,0.27215,regulation of gene expression
+query_prot,GO:0031323,0.26570,regulation of cellular metabolic process
+query_prot,GO:0080090,0.25725,regulation of primary metabolic process
+query_prot,GO:0051171,0.24883,regulation of nitrogen compound metabolic process
+query_prot,GO:0032774,0.24499,RNA biosynthetic process
+query_prot,GO:0097659,0.24184,nucleic acid-templated transcription
+query_prot,GO:0043412,0.23359,macromolecule modification
+query_prot,GO:0032502,0.23347,developmental process
+query_prot,GO:0048518,0.22919,positive regulation of biological process
+query_prot,GO:0048856,0.22591,anatomical structure development
+query_prot,GO:0009889,0.21038,regulation of biosynthetic process
+query_prot,GO:0006351,0.20955,"transcription, DNA-templated"
+query_prot,GO:0033554,0.20806,cellular response to stress
+query_prot,GO:0048523,0.20352,negative regulation of cellular process
+query_prot,GO:0031326,0.20242,regulation of cellular biosynthetic process
+query_prot,GO:0019219,0.20081,regulation of nucleobase-containing compound metabolic process
+query_prot,GO:0007275,0.19521,multicellular organism development
+query_prot,GO:0009892,0.18863,negative regulation of metabolic process
+query_prot,GO:0010556,0.18527,regulation of macromolecule biosynthetic process
+query_prot,GO:0010605,0.17994,negative regulation of macromolecule metabolic process
+query_prot,GO:0048522,0.17932,positive regulation of cellular process
+query_prot,GO:0000003,0.17731,reproduction
+query_prot,GO:0022414,0.17602,reproductive process
+query_prot,GO:0006260,0.17033,DNA replication
+query_prot,GO:0071103,0.16968,DNA conformation change
+query_prot,GO:0044085,0.16750,cellular component biogenesis
+query_prot,GO:2000112,0.16554,regulation of cellular macromolecule biosynthetic process
+query_prot,GO:0044419,0.16540,biological process involved in interspecies interaction between organisms
+query_prot,GO:0036211,0.16514,protein modification process
+query_prot,GO:0006464,0.16512,cellular protein modification process
+query_prot,GO:0010629,0.16373,negative regulation of gene expression
+query_prot,GO:0051252,0.16176,regulation of RNA metabolic process
+query_prot,GO:0006974,0.16074,cellular response to DNA damage stimulus
+query_prot,GO:0007049,0.15721,cell cycle
+query_prot,GO:0022607,0.15075,cellular component assembly
+query_prot,GO:0006281,0.14602,DNA repair
+query_prot,GO:2001141,0.14076,regulation of RNA biosynthetic process
+query_prot,GO:0051704,0.13710,multi-organism process
+query_prot,GO:0009893,0.13185,positive regulation of metabolic process
+query_prot,GO:0016071,0.12993,mRNA metabolic process
+query_prot,GO:0042221,0.12863,response to chemical
+query_prot,GO:0065008,0.12773,regulation of biological quality
+query_prot,GO:0022402,0.12658,cell cycle process
+query_prot,GO:0048869,0.12583,cellular developmental process
+query_prot,GO:1903506,0.12522,regulation of nucleic acid-templated transcription
+query_prot,GO:0043933,0.12466,protein-containing complex subunit organization
+query_prot,GO:0032392,0.12441,DNA geometric change
+query_prot,GO:0006355,0.12313,"regulation of transcription, DNA-templated"
+query_prot,GO:0030154,0.12056,cell differentiation
+query_prot,GO:0009605,0.12041,response to external stimulus
+query_prot,GO:0007154,0.11919,cell communication
+query_prot,GO:0006325,0.11476,chromatin organization
+query_prot,GO:0032508,0.11341,DNA duplex unwinding
+query_prot,GO:0006508,0.11232,proteolysis
+query_prot,GO:0023052,0.11095,signaling
+query_prot,GO:0048731,0.11057,system development
+query_prot,GO:0010604,0.10895,positive regulation of macromolecule metabolic process
+query_prot,GO:0006261,0.10861,DNA-dependent DNA replication
+query_prot,GO:0002376,0.10779,immune system process
+query_prot,GO:0009056,0.10475,catabolic process
+query_prot,GO:0006396,0.10295,RNA processing
+query_prot,GO:0090305,0.10272,nucleic acid phosphodiester bond hydrolysis
+query_prot,GO:0044703,0.10157,multi-organism reproductive process
+query_prot,GO:0006952,0.10069,defense response

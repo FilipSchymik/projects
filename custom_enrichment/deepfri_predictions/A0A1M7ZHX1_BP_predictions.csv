@@ -1,0 +1,26 @@
+### Predictions made by DeepFRI.
+Protein,GO_term/EC_number,Score,GO_term/EC_number name
+query_prot,GO:0016043,0.30738,cellular component organization
+query_prot,GO:0051716,0.22246,cellular response to stimulus
+query_prot,GO:0006793,0.20823,phosphorus metabolic process
+query_prot,GO:0006796,0.19286,phosphate-containing compound metabolic process
+query_prot,GO:0034654,0.18425,nucleobase-containing compound biosynthetic process
+query_prot,GO:0009056,0.18357,catabolic process
+query_prot,GO:0006082,0.17232,organic acid metabolic process
+query_prot,GO:0042221,0.17081,response to chemical
+query_prot,GO:0044248,0.16648,cellular catabolic process
+query_prot,GO:1901575,0.16107,organic substance catabolic process
+query_prot,GO:0006950,0.15690,response to stress
+query_prot,GO:0043436,0.14195,oxoacid metabolic process
+query_prot,GO:0043412,0.13550,macromolecule modification
+query_prot,GO:0033554,0.13506,cellular response to stress
+query_prot,GO:0036211,0.13323,protein modification process
+query_prot,GO:0006464,0.13285,cellular protein modification process
+query_prot,GO:0019439,0.12680,aromatic compound catabolic process
+query_prot,GO:0005975,0.12313,carbohydrate metabolic process
+query_prot,GO:0044085,0.11989,cellular component biogenesis
+query_prot,GO:0019752,0.11923,carboxylic acid metabolic process
+query_prot,GO:0019222,0.11412,regulation of metabolic process
+query_prot,GO:1901361,0.11371,organic cyclic compound catabolic process
+query_prot,GO:0044283,0.10869,small molecule biosynthetic process
+query_prot,GO:0006996,0.10642,organelle organization

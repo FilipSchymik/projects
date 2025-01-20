@@ -1,0 +1,9 @@
+### Predictions made by DeepFRI.
+Protein,GO_term/EC_number,Score,GO_term/EC_number name
+query_prot,GO:0009056,0.43396,catabolic process
+query_prot,GO:0016070,0.40691,RNA metabolic process
+query_prot,GO:1901575,0.34278,organic substance catabolic process
+query_prot,GO:0044248,0.23795,cellular catabolic process
+query_prot,GO:0016043,0.14721,cellular component organization
+query_prot,GO:1901565,0.12944,organonitrogen compound catabolic process
+query_prot,GO:0044085,0.10871,cellular component biogenesis

@@ -1,0 +1,77 @@
+### Predictions made by DeepFRI.
+Protein,GO_term/EC_number,Score,GO_term/EC_number name
+query_prot,GO:0019222,0.52129,regulation of metabolic process
+query_prot,GO:0031323,0.50146,regulation of cellular metabolic process
+query_prot,GO:0060255,0.50009,regulation of macromolecule metabolic process
+query_prot,GO:0080090,0.49896,regulation of primary metabolic process
+query_prot,GO:0051171,0.47999,regulation of nitrogen compound metabolic process
+query_prot,GO:0034654,0.46754,nucleobase-containing compound biosynthetic process
+query_prot,GO:0010468,0.46304,regulation of gene expression
+query_prot,GO:0009889,0.46023,regulation of biosynthetic process
+query_prot,GO:0031326,0.45645,regulation of cellular biosynthetic process
+query_prot,GO:0097659,0.45319,nucleic acid-templated transcription
+query_prot,GO:0019219,0.45167,regulation of nucleobase-containing compound metabolic process
+query_prot,GO:0032774,0.44754,RNA biosynthetic process
+query_prot,GO:0006351,0.44272,"transcription, DNA-templated"
+query_prot,GO:0051252,0.44012,regulation of RNA metabolic process
+query_prot,GO:0016070,0.43103,RNA metabolic process
+query_prot,GO:0010556,0.42962,regulation of macromolecule biosynthetic process
+query_prot,GO:2001141,0.41725,regulation of RNA biosynthetic process
+query_prot,GO:2000112,0.41601,regulation of cellular macromolecule biosynthetic process
+query_prot,GO:1903506,0.41405,regulation of nucleic acid-templated transcription
+query_prot,GO:0006355,0.40510,"regulation of transcription, DNA-templated"
+query_prot,GO:0048518,0.30364,positive regulation of biological process
+query_prot,GO:0016043,0.30297,cellular component organization
+query_prot,GO:0032501,0.28910,multicellular organismal process
+query_prot,GO:0051716,0.28156,cellular response to stimulus
+query_prot,GO:0006996,0.27650,organelle organization
+query_prot,GO:0048522,0.27258,positive regulation of cellular process
+query_prot,GO:0032502,0.27074,developmental process
+query_prot,GO:0048856,0.24749,anatomical structure development
+query_prot,GO:0048519,0.23862,negative regulation of biological process
+query_prot,GO:0007275,0.23685,multicellular organism development
+query_prot,GO:0009893,0.21813,positive regulation of metabolic process
+query_prot,GO:0006366,0.20892,transcription by RNA polymerase II
+query_prot,GO:0007154,0.20621,cell communication
+query_prot,GO:0048523,0.20420,negative regulation of cellular process
+query_prot,GO:0031325,0.19308,positive regulation of cellular metabolic process
+query_prot,GO:0023052,0.18472,signaling
+query_prot,GO:0010604,0.18275,positive regulation of macromolecule metabolic process
+query_prot,GO:0048731,0.17881,system development
+query_prot,GO:0051276,0.17868,chromosome organization
+query_prot,GO:0006357,0.17780,regulation of transcription by RNA polymerase II
+query_prot,GO:0036211,0.17638,protein modification process
+query_prot,GO:0006464,0.17627,cellular protein modification process
+query_prot,GO:0043412,0.17093,macromolecule modification
+query_prot,GO:0048869,0.17040,cellular developmental process
+query_prot,GO:0007165,0.16871,signal transduction
+query_prot,GO:0051173,0.16760,positive regulation of nitrogen compound metabolic process
+query_prot,GO:0030154,0.16558,cell differentiation
+query_prot,GO:0009892,0.16469,negative regulation of metabolic process
+query_prot,GO:0006950,0.16389,response to stress
+query_prot,GO:0009891,0.15555,positive regulation of biosynthetic process
+query_prot,GO:0045935,0.15116,positive regulation of nucleobase-containing compound metabolic process
+query_prot,GO:0031328,0.15076,positive regulation of cellular biosynthetic process
+query_prot,GO:0010628,0.14810,positive regulation of gene expression
+query_prot,GO:0010605,0.14575,negative regulation of macromolecule metabolic process
+query_prot,GO:0006325,0.14142,chromatin organization
+query_prot,GO:0044085,0.13965,cellular component biogenesis
+query_prot,GO:0010629,0.13489,negative regulation of gene expression
+query_prot,GO:0031324,0.13271,negative regulation of cellular metabolic process
+query_prot,GO:0010557,0.13267,positive regulation of macromolecule biosynthetic process
+query_prot,GO:0022607,0.13109,cellular component assembly
+query_prot,GO:0051254,0.13034,positive regulation of RNA metabolic process
+query_prot,GO:0033554,0.12651,cellular response to stress
+query_prot,GO:0042221,0.12401,response to chemical
+query_prot,GO:1902680,0.12176,positive regulation of RNA biosynthetic process
+query_prot,GO:1903508,0.12140,positive regulation of nucleic acid-templated transcription
+query_prot,GO:0051172,0.11578,negative regulation of nitrogen compound metabolic process
+query_prot,GO:0045893,0.11467,"positive regulation of transcription, DNA-templated"
+query_prot,GO:0043933,0.10759,protein-containing complex subunit organization
+query_prot,GO:0009890,0.10644,negative regulation of biosynthetic process
+query_prot,GO:0009653,0.10583,anatomical structure morphogenesis
+query_prot,GO:0031327,0.10351,negative regulation of cellular biosynthetic process
+query_prot,GO:0006259,0.10265,DNA metabolic process
+query_prot,GO:0000003,0.10239,reproduction
+query_prot,GO:0022414,0.10157,reproductive process
+query_prot,GO:0065008,0.10009,regulation of biological quality

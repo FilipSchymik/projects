@@ -1,0 +1,9 @@
+### Predictions made by DeepFRI.
+Protein,GO_term/EC_number,Score,GO_term/EC_number name
+query_prot,GO:0043412,0.20431,macromolecule modification
+query_prot,GO:0036211,0.17086,protein modification process
+query_prot,GO:0006464,0.17027,cellular protein modification process
+query_prot,GO:0016043,0.15352,cellular component organization
+query_prot,GO:0006996,0.12648,organelle organization
+query_prot,GO:0016070,0.12607,RNA metabolic process
+query_prot,GO:0034654,0.10301,nucleobase-containing compound biosynthetic process

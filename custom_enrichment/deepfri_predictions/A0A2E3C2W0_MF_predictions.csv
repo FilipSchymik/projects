@@ -1,0 +1,6 @@
+### Predictions made by DeepFRI.
+Protein,GO_term/EC_number,Score,GO_term/EC_number name
+query_prot,GO:0016741,0.88356,"transferase activity, transferring one-carbon groups"
+query_prot,GO:0008168,0.81434,methyltransferase activity
+query_prot,GO:0008757,0.24454,S-adenosylmethionine-dependent methyltransferase activity
+query_prot,GO:0140098,0.16011,"catalytic activity, acting on RNA"

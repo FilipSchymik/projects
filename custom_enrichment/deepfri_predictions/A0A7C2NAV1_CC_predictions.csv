@@ -1,0 +1,10 @@
+### Predictions made by DeepFRI.
+Protein,GO_term/EC_number,Score,GO_term/EC_number name
+query_prot,GO:0005739,0.46045,mitochondrion
+query_prot,GO:0043228,0.44183,non-membrane-bounded organelle
+query_prot,GO:0043232,0.40566,intracellular non-membrane-bounded organelle
+query_prot,GO:0005840,0.22995,ribosome
+query_prot,GO:0031974,0.12025,membrane-enclosed lumen
+query_prot,GO:0070013,0.11897,intracellular organelle lumen
+query_prot,GO:0043233,0.11648,organelle lumen
+query_prot,GO:0098798,0.10514,mitochondrial protein-containing complex

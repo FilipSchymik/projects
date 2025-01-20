@@ -1,0 +1,4 @@
+### Predictions made by DeepFRI.
+Protein,GO_term/EC_number,Score,GO_term/EC_number name
+query_prot,GO:0005975,0.32182,carbohydrate metabolic process
+query_prot,GO:0005976,0.10440,polysaccharide metabolic process

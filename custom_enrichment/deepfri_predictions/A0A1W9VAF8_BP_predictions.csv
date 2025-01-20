@@ -1,0 +1,20 @@
+### Predictions made by DeepFRI.
+Protein,GO_term/EC_number,Score,GO_term/EC_number name
+query_prot,GO:0006082,0.33780,organic acid metabolic process
+query_prot,GO:0043436,0.31229,oxoacid metabolic process
+query_prot,GO:0019752,0.26973,carboxylic acid metabolic process
+query_prot,GO:0006520,0.25166,cellular amino acid metabolic process
+query_prot,GO:0036211,0.22859,protein modification process
+query_prot,GO:0006464,0.22714,cellular protein modification process
+query_prot,GO:0043412,0.20113,macromolecule modification
+query_prot,GO:0044248,0.19622,cellular catabolic process
+query_prot,GO:0009056,0.18959,catabolic process
+query_prot,GO:1901575,0.15790,organic substance catabolic process
+query_prot,GO:0006950,0.14097,response to stress
+query_prot,GO:0016070,0.13870,RNA metabolic process
+query_prot,GO:1901605,0.13850,alpha-amino acid metabolic process
+query_prot,GO:0051716,0.13023,cellular response to stimulus
+query_prot,GO:0006508,0.12249,proteolysis
+query_prot,GO:0006259,0.12155,DNA metabolic process
+query_prot,GO:1901565,0.11455,organonitrogen compound catabolic process
+query_prot,GO:0018193,0.11027,peptidyl-amino acid modification

@@ -1,0 +1,17 @@
+### Predictions made by DeepFRI.
+Protein,GO_term/EC_number,Score,GO_term/EC_number name
+query_prot,GO:0006796,0.99853,phosphate-containing compound metabolic process
+query_prot,GO:0006793,0.99836,phosphorus metabolic process
+query_prot,GO:0019637,0.99441,organophosphate metabolic process
+query_prot,GO:0090407,0.98935,organophosphate biosynthetic process
+query_prot,GO:0005975,0.74058,carbohydrate metabolic process
+query_prot,GO:0006644,0.55222,phospholipid metabolic process
+query_prot,GO:0008654,0.40124,phospholipid biosynthetic process
+query_prot,GO:0008610,0.33905,lipid biosynthetic process
+query_prot,GO:1901135,0.33330,carbohydrate derivative metabolic process
+query_prot,GO:0044255,0.32292,cellular lipid metabolic process
+query_prot,GO:1901137,0.29092,carbohydrate derivative biosynthetic process
+query_prot,GO:0006629,0.28531,lipid metabolic process
+query_prot,GO:0009312,0.23674,oligosaccharide biosynthetic process
+query_prot,GO:0016051,0.23156,carbohydrate biosynthetic process
+query_prot,GO:0009311,0.19758,oligosaccharide metabolic process

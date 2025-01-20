@@ -1,0 +1,40 @@
+### Predictions made by DeepFRI.
+Protein,GO_term/EC_number,Score,GO_term/EC_number name
+query_prot,GO:0051234,0.69446,establishment of localization
+query_prot,GO:0033036,0.63824,macromolecule localization
+query_prot,GO:0006810,0.60743,transport
+query_prot,GO:0006811,0.49828,ion transport
+query_prot,GO:0022607,0.46553,cellular component assembly
+query_prot,GO:0044085,0.46388,cellular component biogenesis
+query_prot,GO:0071702,0.46297,organic substance transport
+query_prot,GO:0006820,0.46020,anion transport
+query_prot,GO:0016043,0.44722,cellular component organization
+query_prot,GO:0061024,0.40010,membrane organization
+query_prot,GO:0044091,0.35607,membrane biogenesis
+query_prot,GO:0071709,0.33064,membrane assembly
+query_prot,GO:0008104,0.31442,protein localization
+query_prot,GO:0045184,0.30847,establishment of protein localization
+query_prot,GO:0051641,0.28366,cellular localization
+query_prot,GO:0043165,0.28076,Gram-negative-bacterium-type cell outer membrane assembly
+query_prot,GO:1901264,0.27521,carbohydrate derivative transport
+query_prot,GO:0043163,0.27316,cell envelope organization
+query_prot,GO:0070727,0.24286,cellular macromolecule localization
+query_prot,GO:0034613,0.23744,cellular protein localization
+query_prot,GO:0045229,0.23353,external encapsulating structure organization
+query_prot,GO:0010876,0.22432,lipid localization
+query_prot,GO:0055085,0.21546,transmembrane transport
+query_prot,GO:0006869,0.20824,lipid transport
+query_prot,GO:0042221,0.19681,response to chemical
+query_prot,GO:0015920,0.18984,lipopolysaccharide transport
+query_prot,GO:0010033,0.17471,response to organic substance
+query_prot,GO:0006508,0.17388,proteolysis
+query_prot,GO:0044419,0.17386,biological process involved in interspecies interaction between organisms
+query_prot,GO:0071705,0.16607,nitrogen compound transport
+query_prot,GO:0009405,0.16127,pathogenesis
+query_prot,GO:0015833,0.15712,peptide transport
+query_prot,GO:0090150,0.15709,establishment of protein localization to membrane
+query_prot,GO:0042886,0.15356,amide transport
+query_prot,GO:0015031,0.14189,protein transport
+query_prot,GO:0072657,0.13466,protein localization to membrane
+query_prot,GO:0051205,0.13082,protein insertion into membrane
+query_prot,GO:0051649,0.10733,establishment of localization in cell

@@ -1,0 +1,10 @@
+### Predictions made by DeepFRI.
+Protein,GO_term/EC_number,Score,GO_term/EC_number name
+query_prot,GO:0016835,0.92570,carbon-oxygen lyase activity
+query_prot,GO:0016829,0.82049,lyase activity
+query_prot,GO:0016836,0.63189,hydro-lyase activity
+query_prot,GO:0016854,0.32444,racemase and epimerase activity
+query_prot,GO:0036361,0.23101,"racemase activity, acting on amino acids and derivatives"
+query_prot,GO:0016853,0.21366,isomerase activity
+query_prot,GO:0047661,0.19911,amino-acid racemase activity
+query_prot,GO:0016855,0.16917,"racemase and epimerase activity, acting on amino acids and derivatives"

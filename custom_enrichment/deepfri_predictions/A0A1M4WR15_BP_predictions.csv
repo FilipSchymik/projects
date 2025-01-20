@@ -1,0 +1,11 @@
+### Predictions made by DeepFRI.
+Protein,GO_term/EC_number,Score,GO_term/EC_number name
+query_prot,GO:0006810,0.67358,transport
+query_prot,GO:0051234,0.66374,establishment of localization
+query_prot,GO:0006811,0.46232,ion transport
+query_prot,GO:0055085,0.41045,transmembrane transport
+query_prot,GO:0022900,0.26901,electron transport chain
+query_prot,GO:0006091,0.17418,generation of precursor metabolites and energy
+query_prot,GO:0006820,0.16873,anion transport
+query_prot,GO:0006812,0.15162,cation transport
+query_prot,GO:0071702,0.13228,organic substance transport

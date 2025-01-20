@@ -1,0 +1,26 @@
+### Predictions made by DeepFRI.
+Protein,GO_term/EC_number,Score,GO_term/EC_number name
+query_prot,GO:0006811,0.67715,ion transport
+query_prot,GO:0006810,0.65916,transport
+query_prot,GO:0022900,0.65552,electron transport chain
+query_prot,GO:0051234,0.65345,establishment of localization
+query_prot,GO:0055085,0.63651,transmembrane transport
+query_prot,GO:0045333,0.60747,cellular respiration
+query_prot,GO:0006091,0.58467,generation of precursor metabolites and energy
+query_prot,GO:0006812,0.57244,cation transport
+query_prot,GO:0034220,0.56454,ion transmembrane transport
+query_prot,GO:0015980,0.54408,energy derivation by oxidation of organic compounds
+query_prot,GO:0098655,0.52335,cation transmembrane transport
+query_prot,GO:0022904,0.44740,respiratory electron transport chain
+query_prot,GO:0098662,0.44606,inorganic cation transmembrane transport
+query_prot,GO:0098660,0.43515,inorganic ion transmembrane transport
+query_prot,GO:1902600,0.37867,proton transmembrane transport
+query_prot,GO:0009060,0.32417,aerobic respiration
+query_prot,GO:0042773,0.20012,ATP synthesis coupled electron transport
+query_prot,GO:0042775,0.17974,mitochondrial ATP synthesis coupled electron transport
+query_prot,GO:0006119,0.17714,oxidative phosphorylation
+query_prot,GO:0006793,0.16277,phosphorus metabolic process
+query_prot,GO:0006796,0.15956,phosphate-containing compound metabolic process
+query_prot,GO:0046034,0.12551,ATP metabolic process
+query_prot,GO:0016310,0.10952,phosphorylation
+query_prot,GO:0006820,0.10942,anion transport

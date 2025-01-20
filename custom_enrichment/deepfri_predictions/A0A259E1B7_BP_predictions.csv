@@ -1,0 +1,34 @@
+### Predictions made by DeepFRI.
+Protein,GO_term/EC_number,Score,GO_term/EC_number name
+query_prot,GO:1901135,0.55730,carbohydrate derivative metabolic process
+query_prot,GO:0005975,0.55631,carbohydrate metabolic process
+query_prot,GO:0044262,0.48013,cellular carbohydrate metabolic process
+query_prot,GO:0006793,0.36260,phosphorus metabolic process
+query_prot,GO:1901615,0.36208,organic hydroxy compound metabolic process
+query_prot,GO:0019637,0.34880,organophosphate metabolic process
+query_prot,GO:0044283,0.33474,small molecule biosynthetic process
+query_prot,GO:0006796,0.32673,phosphate-containing compound metabolic process
+query_prot,GO:0006082,0.30108,organic acid metabolic process
+query_prot,GO:0019752,0.28032,carboxylic acid metabolic process
+query_prot,GO:0043436,0.26955,oxoacid metabolic process
+query_prot,GO:0006739,0.22796,NADP metabolic process
+query_prot,GO:0006066,0.21814,alcohol metabolic process
+query_prot,GO:1901137,0.21273,carbohydrate derivative biosynthetic process
+query_prot,GO:0009056,0.20634,catabolic process
+query_prot,GO:0032787,0.20106,monocarboxylic acid metabolic process
+query_prot,GO:1901575,0.19661,organic substance catabolic process
+query_prot,GO:0044255,0.18882,cellular lipid metabolic process
+query_prot,GO:0006629,0.18492,lipid metabolic process
+query_prot,GO:1901617,0.18212,organic hydroxy compound biosynthetic process
+query_prot,GO:0006740,0.15846,NADPH regeneration
+query_prot,GO:0044282,0.14873,small molecule catabolic process
+query_prot,GO:0019751,0.14714,polyol metabolic process
+query_prot,GO:0016051,0.14627,carbohydrate biosynthetic process
+query_prot,GO:0044248,0.14453,cellular catabolic process
+query_prot,GO:0006091,0.12838,generation of precursor metabolites and energy
+query_prot,GO:0008610,0.12510,lipid biosynthetic process
+query_prot,GO:0006098,0.12187,pentose-phosphate shunt
+query_prot,GO:0006006,0.10711,glucose metabolic process
+query_prot,GO:0019520,0.10639,aldonic acid metabolic process
+query_prot,GO:0005996,0.10483,monosaccharide metabolic process
+query_prot,GO:0071554,0.10003,cell wall organization or biogenesis

@@ -1,0 +1,11 @@
+### Predictions made by DeepFRI.
+Protein,GO_term/EC_number,Score,GO_term/EC_number name
+query_prot,GO:0042158,0.19944,lipoprotein biosynthetic process
+query_prot,GO:0022900,0.18195,electron transport chain
+query_prot,GO:0042157,0.17408,lipoprotein metabolic process
+query_prot,GO:0006810,0.16688,transport
+query_prot,GO:0051234,0.15429,establishment of localization
+query_prot,GO:0006811,0.14629,ion transport
+query_prot,GO:0006091,0.14547,generation of precursor metabolites and energy
+query_prot,GO:0034220,0.12834,ion transmembrane transport
+query_prot,GO:0055085,0.11565,transmembrane transport

@@ -1,0 +1,26 @@
+### Predictions made by DeepFRI.
+Protein,GO_term/EC_number,Score,GO_term/EC_number name
+query_prot,GO:0016021,0.67566,integral component of membrane
+query_prot,GO:0031224,0.67180,intrinsic component of membrane
+query_prot,GO:0031090,0.66180,organelle membrane
+query_prot,GO:0031984,0.50879,organelle subcompartment
+query_prot,GO:0012505,0.46267,endomembrane system
+query_prot,GO:0042175,0.45829,nuclear outer membrane-endoplasmic reticulum membrane network
+query_prot,GO:0005783,0.45254,endoplasmic reticulum
+query_prot,GO:0005789,0.45179,endoplasmic reticulum membrane
+query_prot,GO:0098827,0.44823,endoplasmic reticulum subcompartment
+query_prot,GO:0031967,0.28557,organelle envelope
+query_prot,GO:0031975,0.24483,envelope
+query_prot,GO:0071944,0.21059,cell periphery
+query_prot,GO:0005886,0.19879,plasma membrane
+query_prot,GO:0098588,0.18969,bounding membrane of organelle
+query_prot,GO:0005739,0.17541,mitochondrion
+query_prot,GO:0005740,0.15055,mitochondrial envelope
+query_prot,GO:0031966,0.14964,mitochondrial membrane
+query_prot,GO:0042579,0.14937,microbody
+query_prot,GO:0005777,0.14905,peroxisome
+query_prot,GO:0009536,0.14809,plastid
+query_prot,GO:0009507,0.13769,chloroplast
+query_prot,GO:0019866,0.13422,organelle inner membrane
+query_prot,GO:0009526,0.12020,plastid envelope
+query_prot,GO:0009941,0.10784,chloroplast envelope

@@ -1,0 +1,31 @@
+### Predictions made by DeepFRI.
+Protein,GO_term/EC_number,Score,GO_term/EC_number name
+query_prot,GO:0031406,0.22496,carboxylic acid binding
+query_prot,GO:0008233,0.21350,peptidase activity
+query_prot,GO:0019842,0.19988,vitamin binding
+query_prot,GO:0004553,0.19378,"hydrolase activity, hydrolyzing O-glycosyl compounds"
+query_prot,GO:0043177,0.18931,organic acid binding
+query_prot,GO:0042802,0.18752,identical protein binding
+query_prot,GO:0042803,0.18183,protein homodimerization activity
+query_prot,GO:0097367,0.18053,carbohydrate derivative binding
+query_prot,GO:0140096,0.17623,"catalytic activity, acting on a protein"
+query_prot,GO:0030246,0.16785,carbohydrate binding
+query_prot,GO:0016798,0.15988,"hydrolase activity, acting on glycosyl bonds"
+query_prot,GO:0048029,0.15627,monosaccharide binding
+query_prot,GO:1901681,0.14898,sulfur compound binding
+query_prot,GO:0033218,0.14117,amide binding
+query_prot,GO:0008238,0.14081,exopeptidase activity
+query_prot,GO:0046983,0.13163,protein dimerization activity
+query_prot,GO:0044877,0.12668,protein-containing complex binding
+query_prot,GO:0005215,0.12502,transporter activity
+query_prot,GO:0004175,0.12215,endopeptidase activity
+query_prot,GO:0008237,0.11881,metallopeptidase activity
+query_prot,GO:0016788,0.11843,"hydrolase activity, acting on ester bonds"
+query_prot,GO:0005102,0.11551,signaling receptor binding
+query_prot,GO:0017171,0.11497,serine hydrolase activity
+query_prot,GO:0016746,0.11416,"transferase activity, transferring acyl groups"
+query_prot,GO:0008236,0.11390,serine-type peptidase activity
+query_prot,GO:0072341,0.10900,modified amino acid binding
+query_prot,GO:0022857,0.10866,transmembrane transporter activity
+query_prot,GO:0016829,0.10295,lyase activity
+query_prot,GO:0016810,0.10250,"hydrolase activity, acting on carbon-nitrogen (but not peptide) bonds"

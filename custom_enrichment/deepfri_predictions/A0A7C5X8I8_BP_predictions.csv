@@ -1,0 +1,9 @@
+### Predictions made by DeepFRI.
+Protein,GO_term/EC_number,Score,GO_term/EC_number name
+query_prot,GO:0006082,0.33279,organic acid metabolic process
+query_prot,GO:0043436,0.30387,oxoacid metabolic process
+query_prot,GO:0019752,0.22191,carboxylic acid metabolic process
+query_prot,GO:0006520,0.17401,cellular amino acid metabolic process
+query_prot,GO:0006790,0.16683,sulfur compound metabolic process
+query_prot,GO:0044272,0.13715,sulfur compound biosynthetic process
+query_prot,GO:1901605,0.11949,alpha-amino acid metabolic process

@@ -1,0 +1,10 @@
+### Predictions made by DeepFRI.
+Protein,GO_term/EC_number,Score,GO_term/EC_number name
+query_prot,GO:0051540,0.15901,metal cluster binding
+query_prot,GO:0051536,0.15255,iron-sulfur cluster binding
+query_prot,GO:0009055,0.14831,electron transfer activity
+query_prot,GO:0046914,0.13748,transition metal ion binding
+query_prot,GO:0030234,0.13302,enzyme regulator activity
+query_prot,GO:0098772,0.12286,molecular function regulator
+query_prot,GO:0046906,0.10609,tetrapyrrole binding
+query_prot,GO:0020037,0.10487,heme binding

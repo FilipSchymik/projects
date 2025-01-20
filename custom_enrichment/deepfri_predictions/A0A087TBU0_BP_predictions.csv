@@ -1,0 +1,38 @@
+### Predictions made by DeepFRI.
+Protein,GO_term/EC_number,Score,GO_term/EC_number name
+query_prot,GO:0051234,0.52417,establishment of localization
+query_prot,GO:0006810,0.52218,transport
+query_prot,GO:0016043,0.37531,cellular component organization
+query_prot,GO:0006811,0.36694,ion transport
+query_prot,GO:0033036,0.35158,macromolecule localization
+query_prot,GO:0051641,0.34927,cellular localization
+query_prot,GO:0008104,0.33850,protein localization
+query_prot,GO:0006820,0.32631,anion transport
+query_prot,GO:0071702,0.31757,organic substance transport
+query_prot,GO:0051649,0.29743,establishment of localization in cell
+query_prot,GO:0042886,0.29267,amide transport
+query_prot,GO:0015833,0.29079,peptide transport
+query_prot,GO:0071705,0.28785,nitrogen compound transport
+query_prot,GO:0015031,0.28760,protein transport
+query_prot,GO:0045184,0.28467,establishment of protein localization
+query_prot,GO:0051716,0.25699,cellular response to stimulus
+query_prot,GO:0016192,0.24675,vesicle-mediated transport
+query_prot,GO:0070727,0.21383,cellular macromolecule localization
+query_prot,GO:0034613,0.21236,cellular protein localization
+query_prot,GO:0006996,0.20779,organelle organization
+query_prot,GO:0046907,0.19846,intracellular transport
+query_prot,GO:0007154,0.19721,cell communication
+query_prot,GO:0006950,0.15760,response to stress
+query_prot,GO:0044085,0.15599,cellular component biogenesis
+query_prot,GO:0023052,0.15417,signaling
+query_prot,GO:0022607,0.13497,cellular component assembly
+query_prot,GO:0007165,0.13331,signal transduction
+query_prot,GO:0006886,0.12975,intracellular protein transport
+query_prot,GO:0032501,0.12390,multicellular organismal process
+query_prot,GO:0009605,0.12164,response to external stimulus
+query_prot,GO:0032502,0.11963,developmental process
+query_prot,GO:0002376,0.11721,immune system process
+query_prot,GO:0006796,0.10907,phosphate-containing compound metabolic process
+query_prot,GO:0006793,0.10596,phosphorus metabolic process
+query_prot,GO:0043933,0.10310,protein-containing complex subunit organization
+query_prot,GO:0048856,0.10203,anatomical structure development

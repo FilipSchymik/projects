@@ -1,0 +1,6 @@
+### Predictions made by DeepFRI.
+Protein,GO_term/EC_number,Score,GO_term/EC_number name
+query_prot,GO:0003723,0.25191,RNA binding
+query_prot,GO:0003735,0.24523,structural constituent of ribosome
+query_prot,GO:0005198,0.23018,structural molecule activity
+query_prot,GO:0019843,0.22811,rRNA binding

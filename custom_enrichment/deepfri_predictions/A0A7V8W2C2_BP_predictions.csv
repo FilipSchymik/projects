@@ -1,0 +1,12 @@
+### Predictions made by DeepFRI.
+Protein,GO_term/EC_number,Score,GO_term/EC_number name
+query_prot,GO:0042440,0.42800,pigment metabolic process
+query_prot,GO:0046148,0.42424,pigment biosynthetic process
+query_prot,GO:0033013,0.38774,tetrapyrrole metabolic process
+query_prot,GO:0006778,0.36656,porphyrin-containing compound metabolic process
+query_prot,GO:0033014,0.36218,tetrapyrrole biosynthetic process
+query_prot,GO:0006779,0.30701,porphyrin-containing compound biosynthetic process
+query_prot,GO:0005975,0.25473,carbohydrate metabolic process
+query_prot,GO:0044283,0.16812,small molecule biosynthetic process
+query_prot,GO:0016051,0.16464,carbohydrate biosynthetic process
+query_prot,GO:0042180,0.10199,cellular ketone metabolic process

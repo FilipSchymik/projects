@@ -1,0 +1,7 @@
+### Predictions made by DeepFRI.
+Protein,GO_term/EC_number,Score,GO_term/EC_number name
+query_prot,GO:0016757,0.43993,"transferase activity, transferring glycosyl groups"
+query_prot,GO:0140096,0.27919,"catalytic activity, acting on a protein"
+query_prot,GO:0016746,0.19298,"transferase activity, transferring acyl groups"
+query_prot,GO:0016758,0.17108,"transferase activity, transferring hexosyl groups"
+query_prot,GO:0016829,0.12955,lyase activity

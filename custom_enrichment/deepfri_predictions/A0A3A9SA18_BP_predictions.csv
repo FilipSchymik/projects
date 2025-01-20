@@ -1,0 +1,34 @@
+### Predictions made by DeepFRI.
+Protein,GO_term/EC_number,Score,GO_term/EC_number name
+query_prot,GO:0010556,0.65328,regulation of macromolecule biosynthetic process
+query_prot,GO:0031326,0.63814,regulation of cellular biosynthetic process
+query_prot,GO:0009889,0.63243,regulation of biosynthetic process
+query_prot,GO:2000112,0.62652,regulation of cellular macromolecule biosynthetic process
+query_prot,GO:0010468,0.60575,regulation of gene expression
+query_prot,GO:0031323,0.57729,regulation of cellular metabolic process
+query_prot,GO:0051171,0.56384,regulation of nitrogen compound metabolic process
+query_prot,GO:0060255,0.55564,regulation of macromolecule metabolic process
+query_prot,GO:0019222,0.54457,regulation of metabolic process
+query_prot,GO:0080090,0.54307,regulation of primary metabolic process
+query_prot,GO:0051252,0.42028,regulation of RNA metabolic process
+query_prot,GO:0016070,0.41561,RNA metabolic process
+query_prot,GO:0019219,0.40134,regulation of nucleobase-containing compound metabolic process
+query_prot,GO:2001141,0.39610,regulation of RNA biosynthetic process
+query_prot,GO:1903506,0.37551,regulation of nucleic acid-templated transcription
+query_prot,GO:0006355,0.36899,"regulation of transcription, DNA-templated"
+query_prot,GO:0097659,0.36501,nucleic acid-templated transcription
+query_prot,GO:0006351,0.35419,"transcription, DNA-templated"
+query_prot,GO:0032774,0.35035,RNA biosynthetic process
+query_prot,GO:0034654,0.29807,nucleobase-containing compound biosynthetic process
+query_prot,GO:0006412,0.22915,translation
+query_prot,GO:0043604,0.22618,amide biosynthetic process
+query_prot,GO:0043043,0.22509,peptide biosynthetic process
+query_prot,GO:0006518,0.20584,peptide metabolic process
+query_prot,GO:0043603,0.18718,cellular amide metabolic process
+query_prot,GO:0016043,0.17605,cellular component organization
+query_prot,GO:0043933,0.13701,protein-containing complex subunit organization
+query_prot,GO:0044085,0.11414,cellular component biogenesis
+query_prot,GO:0010608,0.10891,posttranscriptional regulation of gene expression
+query_prot,GO:0022607,0.10512,cellular component assembly
+query_prot,GO:0006417,0.10311,regulation of translation
+query_prot,GO:0034248,0.10284,regulation of cellular amide metabolic process

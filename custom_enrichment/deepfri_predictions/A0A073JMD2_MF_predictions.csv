@@ -1,0 +1,7 @@
+### Predictions made by DeepFRI.
+Protein,GO_term/EC_number,Score,GO_term/EC_number name
+query_prot,GO:0016651,0.46248,"oxidoreductase activity, acting on NAD(P)H"
+query_prot,GO:0050660,0.43497,flavin adenine dinucleotide binding
+query_prot,GO:0050661,0.24752,NADP binding
+query_prot,GO:0016645,0.16031,"oxidoreductase activity, acting on the CH-NH group of donors"
+query_prot,GO:0016668,0.12321,"oxidoreductase activity, acting on a sulfur group of donors, NAD(P) as acceptor"

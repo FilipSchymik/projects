@@ -1,0 +1,21 @@
+### Predictions made by DeepFRI.
+Protein,GO_term/EC_number,Score,GO_term/EC_number name
+query_prot,GO:0051234,0.80420,establishment of localization
+query_prot,GO:0006810,0.79837,transport
+query_prot,GO:0006811,0.76292,ion transport
+query_prot,GO:0055085,0.71395,transmembrane transport
+query_prot,GO:0034220,0.63276,ion transmembrane transport
+query_prot,GO:0098655,0.44807,cation transmembrane transport
+query_prot,GO:0006812,0.42631,cation transport
+query_prot,GO:0098662,0.38457,inorganic cation transmembrane transport
+query_prot,GO:0006820,0.36055,anion transport
+query_prot,GO:0071705,0.32732,nitrogen compound transport
+query_prot,GO:0071702,0.32223,organic substance transport
+query_prot,GO:0098660,0.31873,inorganic ion transmembrane transport
+query_prot,GO:0006091,0.19413,generation of precursor metabolites and energy
+query_prot,GO:0098656,0.16274,anion transmembrane transport
+query_prot,GO:1902600,0.14402,proton transmembrane transport
+query_prot,GO:0045333,0.14268,cellular respiration
+query_prot,GO:0022900,0.12707,electron transport chain
+query_prot,GO:0015980,0.11309,energy derivation by oxidation of organic compounds
+query_prot,GO:0006813,0.11255,potassium ion transport

@@ -1,0 +1,7 @@
+### Predictions made by DeepFRI.
+Protein,GO_term/EC_number,Score,GO_term/EC_number name
+query_prot,GO:0052689,0.99999,carboxylic ester hydrolase activity
+query_prot,GO:0140101,0.99996,"catalytic activity, acting on a tRNA"
+query_prot,GO:0004045,0.99993,aminoacyl-tRNA hydrolase activity
+query_prot,GO:0140098,0.99944,"catalytic activity, acting on RNA"
+query_prot,GO:0016788,0.99867,"hydrolase activity, acting on ester bonds"

@@ -1,0 +1,12 @@
+### Predictions made by DeepFRI.
+Protein,GO_term/EC_number,Score,GO_term/EC_number name
+query_prot,GO:0019867,0.97897,outer membrane
+query_prot,GO:0009279,0.97895,cell outer membrane
+query_prot,GO:0030313,0.95325,cell envelope
+query_prot,GO:0031975,0.93933,envelope
+query_prot,GO:0030312,0.93205,external encapsulating structure
+query_prot,GO:0071944,0.90836,cell periphery
+query_prot,GO:0046930,0.83357,pore complex
+query_prot,GO:0031224,0.82712,intrinsic component of membrane
+query_prot,GO:0016021,0.81084,integral component of membrane
+query_prot,GO:0098796,0.24077,membrane protein complex

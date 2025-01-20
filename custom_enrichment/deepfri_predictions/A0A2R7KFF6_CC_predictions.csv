@@ -1,0 +1,9 @@
+### Predictions made by DeepFRI.
+Protein,GO_term/EC_number,Score,GO_term/EC_number name
+query_prot,GO:0031224,0.36896,intrinsic component of membrane
+query_prot,GO:0016021,0.35220,integral component of membrane
+query_prot,GO:0012505,0.13901,endomembrane system
+query_prot,GO:0071944,0.13587,cell periphery
+query_prot,GO:0005886,0.11588,plasma membrane
+query_prot,GO:0005576,0.10896,extracellular region
+query_prot,GO:0005783,0.10518,endoplasmic reticulum

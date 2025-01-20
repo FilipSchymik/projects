@@ -1,0 +1,28 @@
+### Predictions made by DeepFRI.
+Protein,GO_term/EC_number,Score,GO_term/EC_number name
+query_prot,GO:0006793,0.57659,phosphorus metabolic process
+query_prot,GO:0006796,0.57282,phosphate-containing compound metabolic process
+query_prot,GO:0044283,0.24882,small molecule biosynthetic process
+query_prot,GO:0019637,0.24334,organophosphate metabolic process
+query_prot,GO:0019752,0.22117,carboxylic acid metabolic process
+query_prot,GO:0006082,0.21722,organic acid metabolic process
+query_prot,GO:0043436,0.21699,oxoacid metabolic process
+query_prot,GO:0032787,0.21142,monocarboxylic acid metabolic process
+query_prot,GO:0006629,0.20539,lipid metabolic process
+query_prot,GO:0044255,0.19975,cellular lipid metabolic process
+query_prot,GO:1901615,0.17495,organic hydroxy compound metabolic process
+query_prot,GO:0072330,0.16185,monocarboxylic acid biosynthetic process
+query_prot,GO:0036211,0.15398,protein modification process
+query_prot,GO:0008610,0.15397,lipid biosynthetic process
+query_prot,GO:0046394,0.15352,carboxylic acid biosynthetic process
+query_prot,GO:0043412,0.15289,macromolecule modification
+query_prot,GO:0006464,0.15285,cellular protein modification process
+query_prot,GO:1901617,0.15174,organic hydroxy compound biosynthetic process
+query_prot,GO:0016053,0.15073,organic acid biosynthetic process
+query_prot,GO:0016311,0.14946,dephosphorylation
+query_prot,GO:0090407,0.12755,organophosphate biosynthetic process
+query_prot,GO:0042221,0.12734,response to chemical
+query_prot,GO:0006066,0.10567,alcohol metabolic process
+query_prot,GO:0051716,0.10483,cellular response to stimulus
+query_prot,GO:0006631,0.10417,fatty acid metabolic process
+query_prot,GO:0016310,0.10246,phosphorylation

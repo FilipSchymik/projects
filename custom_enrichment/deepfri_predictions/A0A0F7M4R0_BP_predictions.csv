@@ -1,0 +1,31 @@
+### Predictions made by DeepFRI.
+Protein,GO_term/EC_number,Score,GO_term/EC_number name
+query_prot,GO:0051234,0.99199,establishment of localization
+query_prot,GO:0006810,0.98971,transport
+query_prot,GO:0006811,0.96926,ion transport
+query_prot,GO:0055085,0.92629,transmembrane transport
+query_prot,GO:0000041,0.86004,transition metal ion transport
+query_prot,GO:0034220,0.75103,ion transmembrane transport
+query_prot,GO:0006826,0.74812,iron ion transport
+query_prot,GO:1901678,0.73367,iron coordination entity transport
+query_prot,GO:0015891,0.69095,siderophore transport
+query_prot,GO:0006812,0.58291,cation transport
+query_prot,GO:0034755,0.52133,iron ion transmembrane transport
+query_prot,GO:0006820,0.44150,anion transport
+query_prot,GO:0098655,0.35294,cation transmembrane transport
+query_prot,GO:0055072,0.35234,iron ion homeostasis
+query_prot,GO:0055076,0.35204,transition metal ion homeostasis
+query_prot,GO:0044718,0.31812,siderophore transmembrane transport
+query_prot,GO:0098662,0.28938,inorganic cation transmembrane transport
+query_prot,GO:0098660,0.28166,inorganic ion transmembrane transport
+query_prot,GO:0071702,0.25966,organic substance transport
+query_prot,GO:0050801,0.25844,ion homeostasis
+query_prot,GO:0055065,0.24855,metal ion homeostasis
+query_prot,GO:0055080,0.24526,cation homeostasis
+query_prot,GO:0098771,0.24152,inorganic ion homeostasis
+query_prot,GO:0098656,0.19801,anion transmembrane transport
+query_prot,GO:0048878,0.19643,chemical homeostasis
+query_prot,GO:0042592,0.15946,homeostatic process
+query_prot,GO:0071705,0.13498,nitrogen compound transport
+query_prot,GO:0065008,0.11448,regulation of biological quality
+query_prot,GO:0051180,0.10480,vitamin transport

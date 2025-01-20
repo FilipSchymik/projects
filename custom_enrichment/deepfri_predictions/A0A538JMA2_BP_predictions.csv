@@ -1,0 +1,19 @@
+### Predictions made by DeepFRI.
+Protein,GO_term/EC_number,Score,GO_term/EC_number name
+query_prot,GO:0006793,0.54512,phosphorus metabolic process
+query_prot,GO:0006796,0.52607,phosphate-containing compound metabolic process
+query_prot,GO:0034654,0.30724,nucleobase-containing compound biosynthetic process
+query_prot,GO:0019222,0.18626,regulation of metabolic process
+query_prot,GO:0016070,0.17643,RNA metabolic process
+query_prot,GO:0032774,0.16580,RNA biosynthetic process
+query_prot,GO:0055086,0.15229,nucleobase-containing small molecule metabolic process
+query_prot,GO:0031323,0.15076,regulation of cellular metabolic process
+query_prot,GO:0097659,0.15053,nucleic acid-templated transcription
+query_prot,GO:0043412,0.14883,macromolecule modification
+query_prot,GO:0006351,0.13448,"transcription, DNA-templated"
+query_prot,GO:0006259,0.12310,DNA metabolic process
+query_prot,GO:0019637,0.11892,organophosphate metabolic process
+query_prot,GO:0006464,0.11513,cellular protein modification process
+query_prot,GO:0036211,0.11511,protein modification process
+query_prot,GO:0016310,0.11223,phosphorylation
+query_prot,GO:0060255,0.10885,regulation of macromolecule metabolic process

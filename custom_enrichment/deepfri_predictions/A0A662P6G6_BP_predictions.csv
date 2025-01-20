@@ -1,0 +1,14 @@
+### Predictions made by DeepFRI.
+Protein,GO_term/EC_number,Score,GO_term/EC_number name
+query_prot,GO:0016043,0.36206,cellular component organization
+query_prot,GO:0044085,0.22554,cellular component biogenesis
+query_prot,GO:0051234,0.21133,establishment of localization
+query_prot,GO:0006810,0.20990,transport
+query_prot,GO:0006996,0.20308,organelle organization
+query_prot,GO:0022607,0.17775,cellular component assembly
+query_prot,GO:0006811,0.15158,ion transport
+query_prot,GO:0043933,0.12640,protein-containing complex subunit organization
+query_prot,GO:0006820,0.12310,anion transport
+query_prot,GO:0033036,0.11741,macromolecule localization
+query_prot,GO:0071702,0.11452,organic substance transport
+query_prot,GO:0065003,0.10106,protein-containing complex assembly

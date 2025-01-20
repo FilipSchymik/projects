@@ -1,0 +1,38 @@
+### Predictions made by DeepFRI.
+Protein,GO_term/EC_number,Score,GO_term/EC_number name
+query_prot,GO:0060255,0.42079,regulation of macromolecule metabolic process
+query_prot,GO:0019222,0.36739,regulation of metabolic process
+query_prot,GO:0080090,0.36030,regulation of primary metabolic process
+query_prot,GO:0051171,0.35737,regulation of nitrogen compound metabolic process
+query_prot,GO:0016043,0.35516,cellular component organization
+query_prot,GO:0031323,0.33196,regulation of cellular metabolic process
+query_prot,GO:0006996,0.24687,organelle organization
+query_prot,GO:0048519,0.21443,negative regulation of biological process
+query_prot,GO:0044419,0.20049,biological process involved in interspecies interaction between organisms
+query_prot,GO:0010468,0.17386,regulation of gene expression
+query_prot,GO:0016070,0.17001,RNA metabolic process
+query_prot,GO:0007049,0.16899,cell cycle
+query_prot,GO:0022607,0.15557,cellular component assembly
+query_prot,GO:0048523,0.15444,negative regulation of cellular process
+query_prot,GO:0043933,0.15362,protein-containing complex subunit organization
+query_prot,GO:0044085,0.14770,cellular component biogenesis
+query_prot,GO:0065003,0.13735,protein-containing complex assembly
+query_prot,GO:0044403,0.13489,biological process involved in symbiotic interaction
+query_prot,GO:0009889,0.13340,regulation of biosynthetic process
+query_prot,GO:0010556,0.13043,regulation of macromolecule biosynthetic process
+query_prot,GO:2000112,0.13029,regulation of cellular macromolecule biosynthetic process
+query_prot,GO:0031326,0.12933,regulation of cellular biosynthetic process
+query_prot,GO:0043412,0.12908,macromolecule modification
+query_prot,GO:0051704,0.12863,multi-organism process
+query_prot,GO:0006464,0.12785,cellular protein modification process
+query_prot,GO:0036211,0.12772,protein modification process
+query_prot,GO:0034622,0.12519,cellular protein-containing complex assembly
+query_prot,GO:0051246,0.12488,regulation of protein metabolic process
+query_prot,GO:0016032,0.12358,viral process
+query_prot,GO:0032268,0.11994,regulation of cellular protein metabolic process
+query_prot,GO:0009892,0.11512,negative regulation of metabolic process
+query_prot,GO:0022402,0.11333,cell cycle process
+query_prot,GO:0051276,0.11295,chromosome organization
+query_prot,GO:0010605,0.11138,negative regulation of macromolecule metabolic process
+query_prot,GO:0006950,0.11110,response to stress
+query_prot,GO:0006259,0.10189,DNA metabolic process

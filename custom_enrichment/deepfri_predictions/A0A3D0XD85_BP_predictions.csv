@@ -1,0 +1,18 @@
+### Predictions made by DeepFRI.
+Protein,GO_term/EC_number,Score,GO_term/EC_number name
+query_prot,GO:0005975,0.45731,carbohydrate metabolic process
+query_prot,GO:0005976,0.25350,polysaccharide metabolic process
+query_prot,GO:1901135,0.24725,carbohydrate derivative metabolic process
+query_prot,GO:0009056,0.19426,catabolic process
+query_prot,GO:1901575,0.18288,organic substance catabolic process
+query_prot,GO:0044262,0.13704,cellular carbohydrate metabolic process
+query_prot,GO:1901137,0.13612,carbohydrate derivative biosynthetic process
+query_prot,GO:0006508,0.13482,proteolysis
+query_prot,GO:0009057,0.13180,macromolecule catabolic process
+query_prot,GO:0016052,0.12906,carbohydrate catabolic process
+query_prot,GO:0016043,0.12490,cellular component organization
+query_prot,GO:0044264,0.12390,cellular polysaccharide metabolic process
+query_prot,GO:0006793,0.11981,phosphorus metabolic process
+query_prot,GO:0044248,0.11604,cellular catabolic process
+query_prot,GO:0071554,0.11324,cell wall organization or biogenesis
+query_prot,GO:0000272,0.10761,polysaccharide catabolic process

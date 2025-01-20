@@ -1,0 +1,6 @@
+### Predictions made by DeepFRI.
+Protein,GO_term/EC_number,Score,GO_term/EC_number name
+query_prot,GO:0036211,0.15846,protein modification process
+query_prot,GO:0006464,0.15795,cellular protein modification process
+query_prot,GO:0043412,0.13421,macromolecule modification
+query_prot,GO:0006259,0.11763,DNA metabolic process

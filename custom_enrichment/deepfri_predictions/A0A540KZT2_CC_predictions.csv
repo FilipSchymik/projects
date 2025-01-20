@@ -1,0 +1,5 @@
+### Predictions made by DeepFRI.
+Protein,GO_term/EC_number,Score,GO_term/EC_number name
+query_prot,GO:0071944,0.13869,cell periphery
+query_prot,GO:0005886,0.13586,plasma membrane
+query_prot,GO:0005634,0.11018,nucleus

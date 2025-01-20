@@ -1,0 +1,13 @@
+### Predictions made by DeepFRI.
+Protein,GO_term/EC_number,Score,GO_term/EC_number name
+query_prot,GO:0050661,0.43445,NADP binding
+query_prot,GO:0016614,0.32973,"oxidoreductase activity, acting on CH-OH group of donors"
+query_prot,GO:0016903,0.31108,"oxidoreductase activity, acting on the aldehyde or oxo group of donors"
+query_prot,GO:0016616,0.30697,"oxidoreductase activity, acting on the CH-OH group of donors, NAD or NADP as acceptor"
+query_prot,GO:0016620,0.22760,"oxidoreductase activity, acting on the aldehyde or oxo group of donors, NAD or NADP as acceptor"
+query_prot,GO:0016758,0.15876,"transferase activity, transferring hexosyl groups"
+query_prot,GO:0008194,0.14265,UDP-glycosyltransferase activity
+query_prot,GO:0046527,0.13570,glucosyltransferase activity
+query_prot,GO:0035251,0.11460,UDP-glucosyltransferase activity
+query_prot,GO:0051287,0.10898,NAD binding
+query_prot,GO:0046914,0.10809,transition metal ion binding

@@ -1,0 +1,12 @@
+### Predictions made by DeepFRI.
+Protein,GO_term/EC_number,Score,GO_term/EC_number name
+query_prot,GO:0009056,0.27987,catabolic process
+query_prot,GO:0006810,0.20109,transport
+query_prot,GO:0051234,0.19779,establishment of localization
+query_prot,GO:0044248,0.19684,cellular catabolic process
+query_prot,GO:0006811,0.18579,ion transport
+query_prot,GO:0006457,0.18542,protein folding
+query_prot,GO:0016043,0.18275,cellular component organization
+query_prot,GO:1901575,0.17141,organic substance catabolic process
+query_prot,GO:0044085,0.15589,cellular component biogenesis
+query_prot,GO:0055085,0.13553,transmembrane transport

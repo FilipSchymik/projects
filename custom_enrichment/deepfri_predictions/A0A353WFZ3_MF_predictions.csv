@@ -1,0 +1,29 @@
+### Predictions made by DeepFRI.
+Protein,GO_term/EC_number,Score,GO_term/EC_number name
+query_prot,GO:0032553,0.56731,ribonucleotide binding
+query_prot,GO:0097367,0.56121,carbohydrate derivative binding
+query_prot,GO:0032555,0.55134,purine ribonucleotide binding
+query_prot,GO:0017076,0.55019,purine nucleotide binding
+query_prot,GO:0035639,0.53089,purine ribonucleoside triphosphate binding
+query_prot,GO:0032559,0.48808,adenyl ribonucleotide binding
+query_prot,GO:0030554,0.48526,adenyl nucleotide binding
+query_prot,GO:0005524,0.46940,ATP binding
+query_prot,GO:0003723,0.31749,RNA binding
+query_prot,GO:0003677,0.30748,DNA binding
+query_prot,GO:0140098,0.26801,"catalytic activity, acting on RNA"
+query_prot,GO:0016874,0.25290,ligase activity
+query_prot,GO:0016772,0.17825,"transferase activity, transferring phosphorus-containing groups"
+query_prot,GO:0140101,0.16110,"catalytic activity, acting on a tRNA"
+query_prot,GO:0000287,0.14899,magnesium ion binding
+query_prot,GO:0016817,0.14203,"hydrolase activity, acting on acid anhydrides"
+query_prot,GO:0016462,0.13795,pyrophosphatase activity
+query_prot,GO:0003690,0.13718,double-stranded DNA binding
+query_prot,GO:0016818,0.13573,"hydrolase activity, acting on acid anhydrides, in phosphorus-containing anhydrides"
+query_prot,GO:0017111,0.12667,nucleoside-triphosphatase activity
+query_prot,GO:0016879,0.12643,"ligase activity, forming carbon-nitrogen bonds"
+query_prot,GO:0016779,0.12102,nucleotidyltransferase activity
+query_prot,GO:0016875,0.11985,"ligase activity, forming carbon-oxygen bonds"
+query_prot,GO:0004812,0.11846,aminoacyl-tRNA ligase activity
+query_prot,GO:0016853,0.11221,isomerase activity
+query_prot,GO:0016301,0.10832,kinase activity
+query_prot,GO:0016887,0.10579,ATPase activity

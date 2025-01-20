@@ -1,0 +1,14 @@
+### Predictions made by DeepFRI.
+Protein,GO_term/EC_number,Score,GO_term/EC_number name
+query_prot,GO:0043412,0.25479,macromolecule modification
+query_prot,GO:0006464,0.24358,cellular protein modification process
+query_prot,GO:0036211,0.24341,protein modification process
+query_prot,GO:0051716,0.15823,cellular response to stimulus
+query_prot,GO:0006950,0.15036,response to stress
+query_prot,GO:0070085,0.14038,glycosylation
+query_prot,GO:0006796,0.13498,phosphate-containing compound metabolic process
+query_prot,GO:0009100,0.12264,glycoprotein metabolic process
+query_prot,GO:0044419,0.12206,biological process involved in interspecies interaction between organisms
+query_prot,GO:0006793,0.12008,phosphorus metabolic process
+query_prot,GO:0009101,0.11331,glycoprotein biosynthetic process
+query_prot,GO:0016043,0.11136,cellular component organization

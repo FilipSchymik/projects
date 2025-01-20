@@ -1,0 +1,5 @@
+### Predictions made by DeepFRI.
+Protein,GO_term/EC_number,Score,GO_term/EC_number name
+query_prot,GO:0004553,0.37923,"hydrolase activity, hydrolyzing O-glycosyl compounds"
+query_prot,GO:0016798,0.28536,"hydrolase activity, acting on glycosyl bonds"
+query_prot,GO:0030246,0.24204,carbohydrate binding

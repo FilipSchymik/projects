@@ -1,0 +1,21 @@
+### Predictions made by DeepFRI.
+Protein,GO_term/EC_number,Score,GO_term/EC_number name
+query_prot,GO:0032259,0.97673,methylation
+query_prot,GO:0043414,0.95296,macromolecule methylation
+query_prot,GO:0016070,0.92900,RNA metabolic process
+query_prot,GO:0043412,0.74434,macromolecule modification
+query_prot,GO:0006396,0.68139,RNA processing
+query_prot,GO:0001510,0.60762,RNA methylation
+query_prot,GO:0009451,0.55683,RNA modification
+query_prot,GO:0034660,0.52350,ncRNA metabolic process
+query_prot,GO:0034470,0.48635,ncRNA processing
+query_prot,GO:0008213,0.34484,protein alkylation
+query_prot,GO:0006479,0.33953,protein methylation
+query_prot,GO:0022613,0.26699,ribonucleoprotein complex biogenesis
+query_prot,GO:0044085,0.21265,cellular component biogenesis
+query_prot,GO:0031167,0.21003,rRNA methylation
+query_prot,GO:0000154,0.20393,rRNA modification
+query_prot,GO:0006364,0.20045,rRNA processing
+query_prot,GO:0042254,0.18972,ribosome biogenesis
+query_prot,GO:0016072,0.18165,rRNA metabolic process
+query_prot,GO:0006399,0.10341,tRNA metabolic process

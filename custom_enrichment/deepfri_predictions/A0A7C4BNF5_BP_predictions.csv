@@ -1,0 +1,11 @@
+### Predictions made by DeepFRI.
+Protein,GO_term/EC_number,Score,GO_term/EC_number name
+query_prot,GO:0006082,0.26006,organic acid metabolic process
+query_prot,GO:0043436,0.22223,oxoacid metabolic process
+query_prot,GO:0019752,0.20481,carboxylic acid metabolic process
+query_prot,GO:0009056,0.18428,catabolic process
+query_prot,GO:1901575,0.13253,organic substance catabolic process
+query_prot,GO:0044248,0.11400,cellular catabolic process
+query_prot,GO:0006520,0.11359,cellular amino acid metabolic process
+query_prot,GO:0006629,0.11292,lipid metabolic process
+query_prot,GO:0044283,0.10732,small molecule biosynthetic process

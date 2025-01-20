@@ -1,0 +1,5 @@
+### Predictions made by DeepFRI.
+Protein,GO_term/EC_number,Score,GO_term/EC_number name
+query_prot,GO:0016810,0.36044,"hydrolase activity, acting on carbon-nitrogen (but not peptide) bonds"
+query_prot,GO:0016811,0.28938,"hydrolase activity, acting on carbon-nitrogen (but not peptide) bonds, in linear amides"
+query_prot,GO:0061783,0.10536,peptidoglycan muralytic activity

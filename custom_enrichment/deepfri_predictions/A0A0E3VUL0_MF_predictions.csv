@@ -1,0 +1,31 @@
+### Predictions made by DeepFRI.
+Protein,GO_term/EC_number,Score,GO_term/EC_number name
+query_prot,GO:0032553,0.67415,ribonucleotide binding
+query_prot,GO:0032559,0.64041,adenyl ribonucleotide binding
+query_prot,GO:0016818,0.63909,"hydrolase activity, acting on acid anhydrides, in phosphorus-containing anhydrides"
+query_prot,GO:0030554,0.63798,adenyl nucleotide binding
+query_prot,GO:0016817,0.63662,"hydrolase activity, acting on acid anhydrides"
+query_prot,GO:0032555,0.59812,purine ribonucleotide binding
+query_prot,GO:0017076,0.59488,purine nucleotide binding
+query_prot,GO:0005524,0.59475,ATP binding
+query_prot,GO:0097367,0.57267,carbohydrate derivative binding
+query_prot,GO:0035639,0.56120,purine ribonucleoside triphosphate binding
+query_prot,GO:0016887,0.55568,ATPase activity
+query_prot,GO:0017111,0.50188,nucleoside-triphosphatase activity
+query_prot,GO:0016462,0.48091,pyrophosphatase activity
+query_prot,GO:0004386,0.39227,helicase activity
+query_prot,GO:0140098,0.35890,"catalytic activity, acting on RNA"
+query_prot,GO:0003723,0.31450,RNA binding
+query_prot,GO:0016772,0.27698,"transferase activity, transferring phosphorus-containing groups"
+query_prot,GO:0140097,0.24851,"catalytic activity, acting on DNA"
+query_prot,GO:0016779,0.22216,nucleotidyltransferase activity
+query_prot,GO:0046914,0.20806,transition metal ion binding
+query_prot,GO:0016741,0.18593,"transferase activity, transferring one-carbon groups"
+query_prot,GO:0003677,0.17194,DNA binding
+query_prot,GO:0003724,0.17125,RNA helicase activity
+query_prot,GO:0016874,0.16543,ligase activity
+query_prot,GO:0003729,0.15415,mRNA binding
+query_prot,GO:0008270,0.13003,zinc ion binding
+query_prot,GO:0042802,0.10757,identical protein binding
+query_prot,GO:0005198,0.10643,structural molecule activity
+query_prot,GO:0140101,0.10304,"catalytic activity, acting on a tRNA"

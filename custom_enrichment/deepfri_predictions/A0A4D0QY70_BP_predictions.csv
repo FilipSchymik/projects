@@ -1,0 +1,26 @@
+### Predictions made by DeepFRI.
+Protein,GO_term/EC_number,Score,GO_term/EC_number name
+query_prot,GO:0016043,0.27063,cellular component organization
+query_prot,GO:0043412,0.21524,macromolecule modification
+query_prot,GO:0006996,0.21067,organelle organization
+query_prot,GO:0036211,0.19844,protein modification process
+query_prot,GO:0006464,0.19835,cellular protein modification process
+query_prot,GO:0051716,0.19359,cellular response to stimulus
+query_prot,GO:0032501,0.16812,multicellular organismal process
+query_prot,GO:0006508,0.16718,proteolysis
+query_prot,GO:0006950,0.16237,response to stress
+query_prot,GO:0006259,0.15342,DNA metabolic process
+query_prot,GO:0032502,0.15149,developmental process
+query_prot,GO:0048856,0.14498,anatomical structure development
+query_prot,GO:0009056,0.14058,catabolic process
+query_prot,GO:0044085,0.13255,cellular component biogenesis
+query_prot,GO:0016070,0.13066,RNA metabolic process
+query_prot,GO:0007275,0.12911,multicellular organism development
+query_prot,GO:0044248,0.12660,cellular catabolic process
+query_prot,GO:1901575,0.12396,organic substance catabolic process
+query_prot,GO:0006793,0.11817,phosphorus metabolic process
+query_prot,GO:0042221,0.11085,response to chemical
+query_prot,GO:0044419,0.10830,biological process involved in interspecies interaction between organisms
+query_prot,GO:0006796,0.10503,phosphate-containing compound metabolic process
+query_prot,GO:0033554,0.10091,cellular response to stress
+query_prot,GO:0051276,0.10050,chromosome organization

@@ -1,0 +1,13 @@
+### Predictions made by DeepFRI.
+Protein,GO_term/EC_number,Score,GO_term/EC_number name
+query_prot,GO:0003677,0.67743,DNA binding
+query_prot,GO:0016799,0.32712,"hydrolase activity, hydrolyzing N-glycosyl compounds"
+query_prot,GO:0016788,0.30395,"hydrolase activity, acting on ester bonds"
+query_prot,GO:0016829,0.23161,lyase activity
+query_prot,GO:0016798,0.22218,"hydrolase activity, acting on glycosyl bonds"
+query_prot,GO:0004518,0.21009,nuclease activity
+query_prot,GO:0140097,0.20708,"catalytic activity, acting on DNA"
+query_prot,GO:0140110,0.16798,transcription regulator activity
+query_prot,GO:0003700,0.14425,DNA-binding transcription factor activity
+query_prot,GO:0016835,0.12903,carbon-oxygen lyase activity
+query_prot,GO:0043565,0.10127,sequence-specific DNA binding

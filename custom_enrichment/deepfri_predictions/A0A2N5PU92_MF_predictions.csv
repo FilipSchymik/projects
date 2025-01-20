@@ -1,0 +1,4 @@
+### Predictions made by DeepFRI.
+Protein,GO_term/EC_number,Score,GO_term/EC_number name
+query_prot,GO:0003677,0.14831,DNA binding
+query_prot,GO:0046983,0.11561,protein dimerization activity

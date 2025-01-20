@@ -1,0 +1,9 @@
+### Predictions made by DeepFRI.
+Protein,GO_term/EC_number,Score,GO_term/EC_number name
+query_prot,GO:0016311,0.23345,dephosphorylation
+query_prot,GO:0005975,0.16405,carbohydrate metabolic process
+query_prot,GO:0006793,0.13822,phosphorus metabolic process
+query_prot,GO:0006082,0.12047,organic acid metabolic process
+query_prot,GO:0006796,0.11107,phosphate-containing compound metabolic process
+query_prot,GO:0032787,0.10755,monocarboxylic acid metabolic process
+query_prot,GO:1901615,0.10263,organic hydroxy compound metabolic process

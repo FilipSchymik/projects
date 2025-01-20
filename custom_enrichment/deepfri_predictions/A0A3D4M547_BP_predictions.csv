@@ -1,0 +1,45 @@
+### Predictions made by DeepFRI.
+Protein,GO_term/EC_number,Score,GO_term/EC_number name
+query_prot,GO:0055086,0.99390,nucleobase-containing small molecule metabolic process
+query_prot,GO:0034654,0.98381,nucleobase-containing compound biosynthetic process
+query_prot,GO:0006793,0.96771,phosphorus metabolic process
+query_prot,GO:1901135,0.94805,carbohydrate derivative metabolic process
+query_prot,GO:0009117,0.92475,nucleotide metabolic process
+query_prot,GO:0006753,0.91368,nucleoside phosphate metabolic process
+query_prot,GO:0006796,0.90176,phosphate-containing compound metabolic process
+query_prot,GO:0019637,0.88996,organophosphate metabolic process
+query_prot,GO:1901137,0.85323,carbohydrate derivative biosynthetic process
+query_prot,GO:0009129,0.83327,pyrimidine nucleoside monophosphate metabolic process
+query_prot,GO:0090407,0.81987,organophosphate biosynthetic process
+query_prot,GO:0009130,0.79890,pyrimidine nucleoside monophosphate biosynthetic process
+query_prot,GO:0009173,0.78926,pyrimidine ribonucleoside monophosphate metabolic process
+query_prot,GO:0072528,0.78328,pyrimidine-containing compound biosynthetic process
+query_prot,GO:0046049,0.77218,UMP metabolic process
+query_prot,GO:0009165,0.76507,nucleotide biosynthetic process
+query_prot,GO:0006220,0.75026,pyrimidine nucleotide metabolic process
+query_prot,GO:0019693,0.71974,ribose phosphate metabolic process
+query_prot,GO:0006221,0.71912,pyrimidine nucleotide biosynthetic process
+query_prot,GO:0009174,0.70526,pyrimidine ribonucleoside monophosphate biosynthetic process
+query_prot,GO:0046390,0.69209,ribose phosphate biosynthetic process
+query_prot,GO:0006222,0.68370,UMP biosynthetic process
+query_prot,GO:0044205,0.66607,'de novo' UMP biosynthetic process
+query_prot,GO:0009218,0.66014,pyrimidine ribonucleotide metabolic process
+query_prot,GO:0072527,0.65493,pyrimidine-containing compound metabolic process
+query_prot,GO:1901293,0.63201,nucleoside phosphate biosynthetic process
+query_prot,GO:0009220,0.53416,pyrimidine ribonucleotide biosynthetic process
+query_prot,GO:0044270,0.45867,cellular nitrogen compound catabolic process
+query_prot,GO:0019752,0.43099,carboxylic acid metabolic process
+query_prot,GO:0043436,0.40894,oxoacid metabolic process
+query_prot,GO:0006082,0.40890,organic acid metabolic process
+query_prot,GO:0009259,0.39591,ribonucleotide metabolic process
+query_prot,GO:0044248,0.37865,cellular catabolic process
+query_prot,GO:0009123,0.36532,nucleoside monophosphate metabolic process
+query_prot,GO:1901575,0.33833,organic substance catabolic process
+query_prot,GO:0009161,0.33315,ribonucleoside monophosphate metabolic process
+query_prot,GO:0009056,0.32278,catabolic process
+query_prot,GO:0009124,0.31925,nucleoside monophosphate biosynthetic process
+query_prot,GO:0009260,0.29487,ribonucleotide biosynthetic process
+query_prot,GO:1901565,0.27331,organonitrogen compound catabolic process
+query_prot,GO:0009156,0.25305,ribonucleoside monophosphate biosynthetic process
+query_prot,GO:0009112,0.11371,nucleobase metabolic process
+query_prot,GO:0046700,0.11168,heterocycle catabolic process

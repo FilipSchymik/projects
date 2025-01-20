@@ -1,0 +1,7 @@
+### Predictions made by DeepFRI.
+Protein,GO_term/EC_number,Score,GO_term/EC_number name
+query_prot,GO:0005634,0.20817,nucleus
+query_prot,GO:0005829,0.15892,cytosol
+query_prot,GO:0071944,0.11329,cell periphery
+query_prot,GO:0043232,0.10921,intracellular non-membrane-bounded organelle
+query_prot,GO:0043228,0.10731,non-membrane-bounded organelle

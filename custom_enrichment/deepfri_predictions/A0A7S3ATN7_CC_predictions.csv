@@ -1,0 +1,4 @@
+### Predictions made by DeepFRI.
+Protein,GO_term/EC_number,Score,GO_term/EC_number name
+query_prot,GO:0016021,0.11000,integral component of membrane
+query_prot,GO:0031224,0.10713,intrinsic component of membrane

@@ -1,0 +1,9 @@
+### Predictions made by DeepFRI.
+Protein,GO_term/EC_number,Score,GO_term/EC_number name
+query_prot,GO:0031224,0.33728,intrinsic component of membrane
+query_prot,GO:0016021,0.33256,integral component of membrane
+query_prot,GO:0071944,0.31459,cell periphery
+query_prot,GO:0005886,0.27767,plasma membrane
+query_prot,GO:0042597,0.27654,periplasmic space
+query_prot,GO:0043190,0.11141,ATP-binding cassette (ABC) transporter complex
+query_prot,GO:0098533,0.10026,ATPase dependent transmembrane transport complex

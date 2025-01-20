@@ -1,0 +1,5 @@
+### Predictions made by DeepFRI.
+Protein,GO_term/EC_number,Score,GO_term/EC_number name
+query_prot,GO:0140098,0.20308,"catalytic activity, acting on RNA"
+query_prot,GO:0140101,0.15056,"catalytic activity, acting on a tRNA"
+query_prot,GO:0003723,0.10090,RNA binding

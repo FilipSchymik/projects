@@ -1,0 +1,22 @@
+### Predictions made by DeepFRI.
+Protein,GO_term/EC_number,Score,GO_term/EC_number name
+query_prot,GO:0019222,0.26991,regulation of metabolic process
+query_prot,GO:0080090,0.26133,regulation of primary metabolic process
+query_prot,GO:0043043,0.25814,peptide biosynthetic process
+query_prot,GO:0031323,0.25276,regulation of cellular metabolic process
+query_prot,GO:0051171,0.25208,regulation of nitrogen compound metabolic process
+query_prot,GO:0043604,0.24645,amide biosynthetic process
+query_prot,GO:0006412,0.24376,translation
+query_prot,GO:0006518,0.24273,peptide metabolic process
+query_prot,GO:0060255,0.24148,regulation of macromolecule metabolic process
+query_prot,GO:0043603,0.22260,cellular amide metabolic process
+query_prot,GO:0016070,0.16123,RNA metabolic process
+query_prot,GO:0016043,0.14958,cellular component organization
+query_prot,GO:0032774,0.14123,RNA biosynthetic process
+query_prot,GO:0010468,0.14106,regulation of gene expression
+query_prot,GO:0034654,0.12037,nucleobase-containing compound biosynthetic process
+query_prot,GO:0009889,0.11290,regulation of biosynthetic process
+query_prot,GO:0031326,0.11023,regulation of cellular biosynthetic process
+query_prot,GO:0051252,0.10631,regulation of RNA metabolic process
+query_prot,GO:0006351,0.10276,"transcription, DNA-templated"
+query_prot,GO:0097659,0.10249,nucleic acid-templated transcription

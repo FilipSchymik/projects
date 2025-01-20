@@ -1,0 +1,31 @@
+### Predictions made by DeepFRI.
+Protein,GO_term/EC_number,Score,GO_term/EC_number name
+query_prot,GO:0006259,0.72673,DNA metabolic process
+query_prot,GO:0051716,0.59401,cellular response to stimulus
+query_prot,GO:0006950,0.55151,response to stress
+query_prot,GO:0033554,0.50225,cellular response to stress
+query_prot,GO:0006974,0.47707,cellular response to DNA damage stimulus
+query_prot,GO:0006281,0.45946,DNA repair
+query_prot,GO:0006260,0.43903,DNA replication
+query_prot,GO:0071897,0.36086,DNA biosynthetic process
+query_prot,GO:0034654,0.33145,nucleobase-containing compound biosynthetic process
+query_prot,GO:0007049,0.30361,cell cycle
+query_prot,GO:0006261,0.27059,DNA-dependent DNA replication
+query_prot,GO:0006793,0.24632,phosphorus metabolic process
+query_prot,GO:0006796,0.24593,phosphate-containing compound metabolic process
+query_prot,GO:0043412,0.20512,macromolecule modification
+query_prot,GO:0090305,0.18968,nucleic acid phosphodiester bond hydrolysis
+query_prot,GO:0006310,0.14377,DNA recombination
+query_prot,GO:0000003,0.13930,reproduction
+query_prot,GO:0006464,0.13731,cellular protein modification process
+query_prot,GO:0036211,0.13661,protein modification process
+query_prot,GO:0048856,0.13637,anatomical structure development
+query_prot,GO:0032502,0.12710,developmental process
+query_prot,GO:0016311,0.12390,dephosphorylation
+query_prot,GO:0016043,0.12356,cellular component organization
+query_prot,GO:0051301,0.12125,cell division
+query_prot,GO:0032501,0.11907,multicellular organismal process
+query_prot,GO:0022414,0.11734,reproductive process
+query_prot,GO:0016070,0.11680,RNA metabolic process
+query_prot,GO:0016310,0.11263,phosphorylation
+query_prot,GO:0022402,0.10061,cell cycle process

@@ -1,0 +1,5 @@
+### Predictions made by DeepFRI.
+Protein,GO_term/EC_number,Score,GO_term/EC_number name
+query_prot,GO:0016746,0.51128,"transferase activity, transferring acyl groups"
+query_prot,GO:0016410,0.22894,N-acyltransferase activity
+query_prot,GO:0016747,0.16898,"transferase activity, transferring acyl groups other than amino-acyl groups"
