@@ -91,8 +91,12 @@ def Fischer_enrich(background_df, sample_df, score_threshold=0.0, fdr_threshold=
     background_df = background_df[background_df["score"] >= score_threshold]
     sample_df = sample_df[sample_df["score"] >= score_threshold]
 
-    # Get unique GO terms for background and sample
-    all_go_terms = set(background_df["go_term_id"]).union(set(sample_df["go_term_id"]))
+    # Create a dictionary for faster GO term name lookup
+    go_term_name_dict = {}
+    for _, row in background_df.iterrows():
+        go_term_name_dict[row["go_term_id"]] = row["go_term_name"]
+    for _, row in sample_df.iterrows():
+        go_term_name_dict[row["go_term_id"]] = row["go_term_name"]
 
     results = []
 
@@ -100,18 +104,24 @@ def Fischer_enrich(background_df, sample_df, score_threshold=0.0, fdr_threshold=
         # Subset dataframes for the current aspect
         aspect_background_df = background_df[background_df["aspect"] == aspect]
         aspect_sample_df = sample_df[sample_df["aspect"] == aspect]
-        for go_term in all_go_terms:
-            #Check if the GO term is present in the current aspect
-            if go_term not in set(aspect_sample_df["go_term_id"]) and go_term not in set(aspect_background_df["go_term_id"]):
-                continue
 
-            # Count GO term occurrences in sample and background
-            go_term_count_sample = len(aspect_sample_df[aspect_sample_df["go_term_id"] == go_term])
-            go_term_count_background = len(aspect_background_df[aspect_background_df["go_term_id"] == go_term])
+        # Get unique GO terms for the current aspect
+        aspect_all_go_terms = set(aspect_background_df["go_term_id"]).union(set(aspect_sample_df["go_term_id"]))
 
-            # Count other GO term occurrences in sample and background
-            other_go_term_count_sample = len(aspect_sample_df[aspect_sample_df["go_term_id"] != go_term])
-            other_go_term_count_background = len(aspect_background_df[aspect_background_df["go_term_id"] != go_term])
+        # Vectorized calculations for the contingency table
+        go_term_counts_sample = aspect_sample_df.groupby("go_term_id")["protein"].count()
+        go_term_counts_background = aspect_background_df.groupby("go_term_id")["protein"].count()
+
+        total_go_terms_sample = go_term_counts_sample.sum()
+        total_go_terms_background = go_term_counts_background.sum()
+
+        for go_term in aspect_all_go_terms:
+            # Contingency table using vectorized operations
+            go_term_count_sample = go_term_counts_sample.get(go_term, 0)
+            go_term_count_background = go_term_counts_background.get(go_term, 0)
+
+            other_go_term_count_sample = total_go_terms_sample - go_term_count_sample
+            other_go_term_count_background = total_go_terms_background - go_term_count_background
 
             # Perform Fisher's exact test (one-sided for enrichment)
             _, p_value = stats.fisher_exact(
@@ -120,15 +130,9 @@ def Fischer_enrich(background_df, sample_df, score_threshold=0.0, fdr_threshold=
                 alternative="greater"
             )
 
-            # Get GO term name
-            if go_term in aspect_sample_df["go_term_id"].values:
-                go_term_name = aspect_sample_df[aspect_sample_df["go_term_id"] == go_term]["go_term_name"].iloc[0]
-            elif go_term in aspect_background_df["go_term_id"].values:
-                go_term_name = aspect_background_df[aspect_background_df["go_term_id"] == go_term]["go_term_name"].iloc[0]
-
             results.append({
                 "go_term_id": go_term,
-                "go_term_name": go_term_name,
+                "go_term_name": go_term_name_dict.get(go_term, "Unknown"),
                 "p_value": p_value,
                 "aspect": aspect
             })
@@ -144,3 +148,31 @@ def Fischer_enrich(background_df, sample_df, score_threshold=0.0, fdr_threshold=
         columns=["go_term_id", "go_term_name", "p_value", "adjusted_p_value","aspect"])
 
     return results_df
+
+def run_deepfri(pdb_folder, script_folder, output_folder, threads=1, conda_env_name="deepfri"):
+    '''
+    Run deepFRI predictions for all PDB files in a folder.
+    input:
+        pdb_folder: path to the folder with PDB files.
+        script_folder: path to the folder with deepFRI predicty.py script.
+        output_folder: path to the folder where the predictions will be saved.
+        threads: number of threads to use (default: 1).
+        conda_env_name: name of the conda environment with deepFRI installed (default: "deepfri").
+    '''
+    
+    output_prefix = output_folder / pdb_folder.stem
+
+    deepfri_command = [
+    "conda",
+    "run",
+    "-n",
+    conda_env_name,
+    "python",
+    f"{str(deepfri_script)}/predict.py",
+    "--pdb_dir",
+    str(pdb_file),
+    "-ont",
+    "mf", "bp", "cc",
+    "--output_fn_prefix",
+    str(output_prefix)
+]
